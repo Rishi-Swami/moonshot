@@ -1,0 +1,21 @@
+[Unit]
+Description=Moonshot Trading Bot
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=ubuntu
+WorkingDirectory=/home/ubuntu/moonshot-bot
+ExecStart=/home/ubuntu/moonshot-bot/venv/bin/python main.py
+Restart=always
+RestartSec=30
+StandardOutput=journal
+StandardError=journal
+
+# Environment — bot reads from .env file, not here
+# But you can also set them here as backup:
+# Environment="HELIUS_API_KEY=xxx"
+
+[Install]
+WantedBy=multi-user.target

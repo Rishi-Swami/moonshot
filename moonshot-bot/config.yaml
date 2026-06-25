@@ -1,0 +1,84 @@
+# ──────────────────────────────────────────────────────
+# MOONSHOT BOT — Configuration
+# ──────────────────────────────────────────────────────
+# All private keys go in .env NOT here.
+# This file is safe to commit to GitHub.
+# ──────────────────────────────────────────────────────
+
+# ── PAPER TRADING ──────────────────────────────────────
+# Set to true to simulate all trades without spending real money.
+# ALWAYS start with true. Only set false when you trust the bot.
+paper_trading: true
+
+# ── CAPITAL ────────────────────────────────────────────
+capital:
+  total_inr: 500          # your total starting capital in INR
+  reserve_pct: 20         # keep 20% in reserve, never trade this
+
+# ── TRADING RULES ──────────────────────────────────────
+trading:
+  per_trade_inr: 20       # INR per individual trade signal
+  min_trade_inr: 5        # minimum (below this, skip)
+  max_trade_inr: 50       # maximum per single trade (hard cap)
+  max_open_positions: 5   # never hold more than 5 coins at once
+  slippage_bps: 300       # 3% slippage tolerance (300 basis points)
+  max_price_impact_pct: 5 # reject if Jupiter quotes > 5% price impact
+
+# ── PROFIT LADDER ──────────────────────────────────────
+profit_ladder:
+  sell_50pct_at_x: 2.0    # at 2x price → sell 50% (recover full capital)
+  sell_30pct_at_x: 5.0    # at 5x price → sell 30% (lock big profit)
+                           # remaining 20% rides free to potential 50x+
+  stop_loss_pct: 25        # -25% from entry → full exit, cut loss fast
+
+# ── SAFETY / KILL SWITCH ───────────────────────────────
+safety:
+  max_daily_loss_pct: 20   # if today's loss > 20% of capital → kill bot
+  capital_floor_inr: 50    # if total value < ₹50 → stop bot
+  max_trades_per_minute: 5 # runaway bot detector
+
+# ── SOLANA RPC ─────────────────────────────────────────
+# Uses Helius RPC by default (fast, free tier).
+# Replace with your own Helius project RPC for better limits.
+solana:
+  rpc_url: null  # null = auto-build from HELIUS_API_KEY in .env
+
+# ── WHALE COPY STRATEGY ────────────────────────────────
+whales:
+  # Add known profitable Solana wallet addresses here.
+  # Find good wallets on: gmgn.ai, cielo.finance, or nansen.ai
+  # Start with 3-5 wallets max.
+  watch_list:
+    - "REPLACE_WITH_WHALE_WALLET_1"
+    - "REPLACE_WITH_WHALE_WALLET_2"
+    - "REPLACE_WITH_WHALE_WALLET_3"
+  min_whale_trade_usd: 500      # only copy if whale put in > $500
+  min_liquidity_usd: 30000      # token must have > $30K liquidity
+  max_liquidity_usd: 5000000    # token must have < $5M liquidity
+
+# ── LISTING SNIPE STRATEGY ─────────────────────────────
+listing_snipe:
+  min_liquidity_usd: 15000    # new pair needs > $15K to be real
+  max_liquidity_usd: 500000   # don't snipe already-big launches
+  min_buys_5min: 5            # needs real buyers, not just LP creation
+
+# ── NARRATIVE STRATEGY ─────────────────────────────────
+narrative:
+  min_liquidity_usd: 50000    # narrative plays need more liquidity
+  max_liquidity_usd: 3000000
+  min_vol_liq_ratio: 3.0      # volume must be 3x the liquidity (hot signal)
+  max_buys_per_narrative: 2   # max 2 buys per trending narrative
+
+# ── SCAN INTERVALS (seconds) ───────────────────────────
+scan_intervals:
+  whale_seconds: 20       # check whale wallets every 20s
+  listing_seconds: 30     # check new listings every 30s
+  narrative_seconds: 120  # check narratives every 2 minutes
+  price_seconds: 10       # update position prices every 10s
+
+# ── DASHBOARD ──────────────────────────────────────────
+dashboard:
+  # Path where dashboard.json is written.
+  # If serving via nginx/caddy, point this to your web root.
+  # If using GitHub Pages, you'll rsync/scp this file to the repo.
+  output_path: "data/dashboard.json"
