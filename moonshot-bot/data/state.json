@@ -1,0 +1,12 @@
+{
+  "open_positions": {},
+  "closed_positions": [],
+  "realized_pnl_inr": 0.0,
+  "start_capital_inr": 500,
+  "best_trade": {
+    "symbol": "\u2014",
+    "pnl_inr": 0.0
+  },
+  "errors": [],
+  "saved_at": "2026-06-28T14:10:31.063605"
+}

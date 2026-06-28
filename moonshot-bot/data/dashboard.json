@@ -1,0 +1,21 @@
+{
+  "totalProfit": 500.0,
+  "startCapital": 500,
+  "totalPct": 0.0,
+  "todayProfit": 0,
+  "todayPct": 0.0,
+  "totalTrades": 0,
+  "winRate": 0.0,
+  "bestTrade": 0.0,
+  "bestCoin": "\u2014",
+  "openPositions": 0,
+  "activeCoins": "scanning...",
+  "whalesTracked": 3,
+  "lastSignal": "\u2014",
+  "trades": [],
+  "botStatus": "running",
+  "error": null,
+  "errorHistory": [],
+  "lastUpdated": "2026-06-28T14:10:31.064075",
+  "paperTrading": true
+}
