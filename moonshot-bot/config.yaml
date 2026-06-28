@@ -49,9 +49,9 @@ whales:
   # Find good wallets on: gmgn.ai, cielo.finance, or nansen.ai
   # Start with 3-5 wallets max.
   watch_list:
-    - "REPLACE_WITH_WHALE_WALLET_1"
-    - "REPLACE_WITH_WHALE_WALLET_2"
-    - "REPLACE_WITH_WHALE_WALLET_3"
+    - "whamNNP9tHoxLg92yHvJPdYhghEoCg1qYTsh5a2oLbx"
+    - "CyaE1VxvBrahnPWkqm5VsdCvyS2QmNht2UFrKJHga54o"
+    - "CF7rajKuxb6Zj683CEDtrs6NA88UkMhE87sqKQJJf6vY"
   min_whale_trade_usd: 500      # only copy if whale put in > $500
   min_liquidity_usd: 30000      # token must have > $30K liquidity
   max_liquidity_usd: 5000000    # token must have < $5M liquidity
