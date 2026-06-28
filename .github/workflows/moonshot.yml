@@ -13,6 +13,10 @@ jobs:
     permissions:
       contents: write
 
+    defaults:
+      run:
+        working-directory: moonshot-bot
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -38,6 +42,7 @@ jobs:
         run: |
           git config --global user.name  "moonshot-bot"
           git config --global user.email "bot@moonshot"
-          git add data/dashboard.json data/state.json || true
+          git add moonshot-bot/data/dashboard.json moonshot-bot/data/state.json || true
           git diff --staged --quiet || git commit -m "bot: update $(date '+%H:%M:%S')"
           git push
+        working-directory: ${{ github.workspace }}
