@@ -1,0 +1,43 @@
+name: Moonshot Bot
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 4
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run bot scan cycle
+        env:
+          WALLET_PRIVATE_KEY:   ${{ secrets.WALLET_PRIVATE_KEY }}
+          HELIUS_API_KEY:       ${{ secrets.HELIUS_API_KEY }}
+          BIRDEYE_API_KEY:      ${{ secrets.BIRDEYE_API_KEY }}
+          DASHBOARD_JSON_PATH:  data/dashboard.json
+        run: python main_once.py
+
+      - name: Push dashboard update
+        run: |
+          git config --global user.name  "moonshot-bot"
+          git config --global user.email "bot@moonshot"
+          git add data/dashboard.json data/state.json || true
+          git diff --staged --quiet || git commit -m "bot: update $(date '+%H:%M:%S')"
+          git push
