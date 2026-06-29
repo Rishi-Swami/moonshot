@@ -7,6 +7,35 @@
     "symbol": "\u2014",
     "pnl_inr": 0.0
   },
-  "errors": [],
-  "saved_at": "2026-06-29T01:58:36.318931"
+  "errors": [
+    {
+      "time": "2026-06-29T15:58:26.544090",
+      "message": "Jupiter quote failed for PADSHRK"
+    },
+    {
+      "time": "2026-06-29T15:58:26.574745",
+      "message": "Jupiter quote failed for ANSEM"
+    },
+    {
+      "time": "2026-06-29T15:58:28.305783",
+      "message": "Jupiter quote failed for BREZ"
+    },
+    {
+      "time": "2026-06-29T15:58:28.336920",
+      "message": "Jupiter quote failed for BREZ"
+    },
+    {
+      "time": "2026-06-29T15:58:28.366558",
+      "message": "Jupiter quote failed for BREZ"
+    },
+    {
+      "time": "2026-06-29T15:58:29.317807",
+      "message": "Jupiter quote failed for BREZ"
+    },
+    {
+      "time": "2026-06-29T15:58:29.349271",
+      "message": "Jupiter quote failed for BREZ"
+    }
+  ],
+  "saved_at": "2026-06-29T15:58:32.228183"
 }
