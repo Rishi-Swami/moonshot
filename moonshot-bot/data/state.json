@@ -35,7 +35,27 @@
     {
       "time": "2026-06-29T15:58:29.349271",
       "message": "Jupiter quote failed for BREZ"
+    },
+    {
+      "time": "2026-06-30T22:02:41.263017",
+      "message": "Jupiter quote failed for Belmar"
+    },
+    {
+      "time": "2026-06-30T22:02:41.274316",
+      "message": "Jupiter quote failed for Belmar"
+    },
+    {
+      "time": "2026-06-30T22:02:41.287313",
+      "message": "Jupiter quote failed for Belmar"
+    },
+    {
+      "time": "2026-06-30T22:02:42.274458",
+      "message": "Jupiter quote failed for Belmar"
+    },
+    {
+      "time": "2026-06-30T22:02:42.287164",
+      "message": "Jupiter quote failed for Belmar"
     }
   ],
-  "saved_at": "2026-06-30T20:31:11.562662"
+  "saved_at": "2026-06-30T22:02:48.066025"
 }
