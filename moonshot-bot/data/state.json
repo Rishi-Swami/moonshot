@@ -55,7 +55,23 @@
     {
       "time": "2026-06-30T22:02:42.287164",
       "message": "Jupiter quote failed for Belmar"
+    },
+    {
+      "time": "2026-07-01T23:51:35.969961",
+      "message": "Jupiter quote failed for PENALTY"
+    },
+    {
+      "time": "2026-07-01T23:51:35.992741",
+      "message": "Jupiter quote failed for PENALTY"
+    },
+    {
+      "time": "2026-07-01T23:51:36.549676",
+      "message": "Jupiter quote failed for PENALTY"
+    },
+    {
+      "time": "2026-07-01T23:51:36.980856",
+      "message": "Jupiter quote failed for PENALTY"
     }
   ],
-  "saved_at": "2026-07-01T22:23:44.512662"
+  "saved_at": "2026-07-01T23:51:41.374442"
 }
