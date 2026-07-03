@@ -83,7 +83,11 @@
     {
       "time": "2026-07-03T14:22:48.884852",
       "message": "Jupiter quote failed for SCBRO"
+    },
+    {
+      "time": "2026-07-03T16:06:39.801229",
+      "message": "Jupiter quote failed for TRTL"
     }
   ],
-  "saved_at": "2026-07-03T14:22:52.148086"
+  "saved_at": "2026-07-03T16:06:44.867508"
 }
