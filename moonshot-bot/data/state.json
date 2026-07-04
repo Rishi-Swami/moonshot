@@ -9,14 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-06-29T15:58:26.544090",
-      "message": "Jupiter quote failed for PADSHRK"
-    },
-    {
-      "time": "2026-06-29T15:58:26.574745",
-      "message": "Jupiter quote failed for ANSEM"
-    },
-    {
       "time": "2026-06-29T15:58:28.305783",
       "message": "Jupiter quote failed for BREZ"
     },
@@ -87,7 +79,15 @@
     {
       "time": "2026-07-03T16:06:39.801229",
       "message": "Jupiter quote failed for TRTL"
+    },
+    {
+      "time": "2026-07-04T20:41:45.502985",
+      "message": "Jupiter quote failed for NISKULL"
+    },
+    {
+      "time": "2026-07-04T20:41:47.924308",
+      "message": "Jupiter quote failed for Jazz"
     }
   ],
-  "saved_at": "2026-07-04T19:48:39.153433"
+  "saved_at": "2026-07-04T20:41:50.589721"
 }
