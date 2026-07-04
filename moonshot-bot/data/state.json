@@ -9,10 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-06-29T15:58:28.336920",
-      "message": "Jupiter quote failed for BREZ"
-    },
-    {
       "time": "2026-06-29T15:58:28.366558",
       "message": "Jupiter quote failed for BREZ"
     },
@@ -87,7 +83,11 @@
     {
       "time": "2026-07-04T22:41:55.741036",
       "message": "Jupiter quote failed for Vacmug"
+    },
+    {
+      "time": "2026-07-04T23:46:01.374046",
+      "message": "Jupiter quote failed for SOL"
     }
   ],
-  "saved_at": "2026-07-04T22:41:58.314412"
+  "saved_at": "2026-07-04T23:46:06.375389"
 }
