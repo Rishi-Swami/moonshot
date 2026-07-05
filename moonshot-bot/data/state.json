@@ -9,26 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-06-29T15:58:29.349271",
-      "message": "Jupiter quote failed for BREZ"
-    },
-    {
-      "time": "2026-06-30T22:02:41.263017",
-      "message": "Jupiter quote failed for Belmar"
-    },
-    {
-      "time": "2026-06-30T22:02:41.274316",
-      "message": "Jupiter quote failed for Belmar"
-    },
-    {
-      "time": "2026-06-30T22:02:41.287313",
-      "message": "Jupiter quote failed for Belmar"
-    },
-    {
-      "time": "2026-06-30T22:02:42.274458",
-      "message": "Jupiter quote failed for Belmar"
-    },
-    {
       "time": "2026-06-30T22:02:42.287164",
       "message": "Jupiter quote failed for Belmar"
     },
@@ -87,7 +67,27 @@
     {
       "time": "2026-07-05T15:14:03.855457",
       "message": "Jupiter quote failed for BRLVAL"
+    },
+    {
+      "time": "2026-07-05T18:48:09.322103",
+      "message": "Jupiter quote failed for CLIVE"
+    },
+    {
+      "time": "2026-07-05T18:48:09.342226",
+      "message": "Jupiter quote failed for CLIVE"
+    },
+    {
+      "time": "2026-07-05T18:48:09.362993",
+      "message": "Jupiter quote failed for CLIVE"
+    },
+    {
+      "time": "2026-07-05T18:48:10.334622",
+      "message": "Jupiter quote failed for CLIVE"
+    },
+    {
+      "time": "2026-07-05T18:48:10.355608",
+      "message": "Jupiter quote failed for CLIVE"
     }
   ],
-  "saved_at": "2026-07-05T17:40:52.401941"
+  "saved_at": "2026-07-05T18:48:12.871485"
 }
