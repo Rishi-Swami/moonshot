@@ -9,10 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-06-29T15:58:29.317807",
-      "message": "Jupiter quote failed for BREZ"
-    },
-    {
       "time": "2026-06-29T15:58:29.349271",
       "message": "Jupiter quote failed for BREZ"
     },
@@ -87,7 +83,11 @@
     {
       "time": "2026-07-05T01:28:10.905659",
       "message": "Jupiter quote failed for Nksgr"
+    },
+    {
+      "time": "2026-07-05T15:14:03.855457",
+      "message": "Jupiter quote failed for BRLVAL"
     }
   ],
-  "saved_at": "2026-07-05T13:53:44.294346"
+  "saved_at": "2026-07-05T15:14:06.338023"
 }
