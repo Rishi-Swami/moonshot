@@ -11,11 +11,11 @@
   "openPositions": 0,
   "activeCoins": "scanning...",
   "whalesTracked": 3,
-  "lastSignal": "2026-07-06T15:47:29.376784",
+  "lastSignal": "2026-07-06T18:01:40.582515",
   "trades": [],
   "botStatus": "running",
   "error": null,
   "errorHistory": [],
-  "lastUpdated": "2026-07-06T15:47:30.378783",
+  "lastUpdated": "2026-07-06T18:01:41.584358",
   "paperTrading": true
 }
