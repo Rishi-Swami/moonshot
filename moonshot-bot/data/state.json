@@ -9,26 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-07-08T16:15:49.347721",
-      "message": "Jupiter quote failed for DONALT"
-    },
-    {
-      "time": "2026-07-08T16:15:49.357434",
-      "message": "Jupiter quote failed for DONALT"
-    },
-    {
-      "time": "2026-07-08T16:15:50.347320",
-      "message": "Jupiter quote failed for DONALT"
-    },
-    {
-      "time": "2026-07-08T16:15:50.360000",
-      "message": "Jupiter quote failed for DONALT"
-    },
-    {
-      "time": "2026-07-08T17:55:21.345787",
-      "message": "Jupiter quote failed for DONALT"
-    },
-    {
       "time": "2026-07-08T17:55:21.357227",
       "message": "Jupiter quote failed for DONALT"
     },
@@ -87,7 +67,27 @@
     {
       "time": "2026-07-08T20:48:54.883084",
       "message": "Jupiter quote failed for DONALT"
+    },
+    {
+      "time": "2026-07-08T21:57:33.975342",
+      "message": "Jupiter quote failed for DONALT"
+    },
+    {
+      "time": "2026-07-08T21:57:33.991676",
+      "message": "Jupiter quote failed for DONALT"
+    },
+    {
+      "time": "2026-07-08T21:57:34.006085",
+      "message": "Jupiter quote failed for DONALT"
+    },
+    {
+      "time": "2026-07-08T21:57:34.986994",
+      "message": "Jupiter quote failed for DONALT"
+    },
+    {
+      "time": "2026-07-08T21:57:35.036512",
+      "message": "Jupiter quote failed for DONALT"
     }
   ],
-  "saved_at": "2026-07-08T20:48:55.884469"
+  "saved_at": "2026-07-08T21:57:36.037964"
 }
