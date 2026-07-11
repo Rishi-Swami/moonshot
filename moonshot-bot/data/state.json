@@ -9,10 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-07-09T23:52:12.608732",
-      "message": "Jupiter quote failed for DONALT"
-    },
-    {
       "time": "2026-07-10T02:48:28.708191",
       "message": "Jupiter quote failed for DONALT"
     },
@@ -87,7 +83,11 @@
     {
       "time": "2026-07-11T15:38:25.788889",
       "message": "Jupiter quote failed for JYCSB"
+    },
+    {
+      "time": "2026-07-11T16:35:40.512101",
+      "message": "Jupiter quote failed for CASHCAT"
     }
   ],
-  "saved_at": "2026-07-11T15:38:28.689962"
+  "saved_at": "2026-07-11T16:35:45.634337"
 }
