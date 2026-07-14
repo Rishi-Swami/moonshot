@@ -9,18 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-07-10T18:14:44.558065",
-      "message": "Jupiter quote failed for CASHCAT"
-    },
-    {
-      "time": "2026-07-10T18:14:46.893314",
-      "message": "Jupiter quote failed for Npcban"
-    },
-    {
-      "time": "2026-07-10T19:55:27.519537",
-      "message": "Jupiter quote failed for CASHCAT"
-    },
-    {
       "time": "2026-07-11T01:04:45.226436",
       "message": "Jupiter quote failed for CASHCAT"
     },
@@ -87,7 +75,19 @@
     {
       "time": "2026-07-14T00:11:56.926210",
       "message": "Jupiter quote failed for brain"
+    },
+    {
+      "time": "2026-07-14T17:58:49.057462",
+      "message": "Jupiter quote failed for Diarrhea"
+    },
+    {
+      "time": "2026-07-14T17:58:49.072548",
+      "message": "Jupiter quote failed for Diarrhea"
+    },
+    {
+      "time": "2026-07-14T17:58:49.088090",
+      "message": "Jupiter quote failed for Diarrhea"
     }
   ],
-  "saved_at": "2026-07-14T16:51:20.659582"
+  "saved_at": "2026-07-14T17:58:51.664801"
 }
