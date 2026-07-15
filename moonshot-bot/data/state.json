@@ -9,10 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-07-11T13:40:27.779978",
-      "message": "Jupiter quote failed for DOJOAI"
-    },
-    {
       "time": "2026-07-11T15:38:25.788889",
       "message": "Jupiter quote failed for JYCSB"
     },
@@ -87,7 +83,11 @@
     {
       "time": "2026-07-14T20:44:11.738708",
       "message": "Jupiter quote failed for NAERAC"
+    },
+    {
+      "time": "2026-07-15T21:42:36.235961",
+      "message": "Jupiter quote failed for Mardust"
     }
   ],
-  "saved_at": "2026-07-15T20:43:28.074656"
+  "saved_at": "2026-07-15T21:42:38.936988"
 }
