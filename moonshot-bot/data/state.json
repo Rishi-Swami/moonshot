@@ -9,10 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-07-13T18:49:25.366165",
-      "message": "Jupiter quote failed for Clude"
-    },
-    {
       "time": "2026-07-13T18:49:25.382609",
       "message": "Jupiter quote failed for Clude"
     },
@@ -87,7 +83,11 @@
     {
       "time": "2026-07-21T23:36:49.260330",
       "message": "Jupiter quote failed for STRBAN"
+    },
+    {
+      "time": "2026-07-22T17:19:48.942496",
+      "message": "Jupiter quote failed for BRLFX"
     }
   ],
-  "saved_at": "2026-07-22T15:53:14.360212"
+  "saved_at": "2026-07-22T17:19:54.034032"
 }
