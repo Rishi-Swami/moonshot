@@ -9,22 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-07-13T18:49:25.382609",
-      "message": "Jupiter quote failed for Clude"
-    },
-    {
-      "time": "2026-07-13T18:49:26.359040",
-      "message": "Jupiter quote failed for Clude"
-    },
-    {
-      "time": "2026-07-13T22:13:31.749405",
-      "message": "Jupiter quote failed for SBFC"
-    },
-    {
-      "time": "2026-07-14T00:11:56.926210",
-      "message": "Jupiter quote failed for brain"
-    },
-    {
       "time": "2026-07-14T17:58:49.057462",
       "message": "Jupiter quote failed for Diarrhea"
     },
@@ -87,7 +71,23 @@
     {
       "time": "2026-07-22T17:19:48.942496",
       "message": "Jupiter quote failed for BRLFX"
+    },
+    {
+      "time": "2026-07-23T21:30:18.448621",
+      "message": "Jupiter quote failed for SAPIJIJU"
+    },
+    {
+      "time": "2026-07-23T21:30:18.477150",
+      "message": "Jupiter quote failed for SAPIJIJU"
+    },
+    {
+      "time": "2026-07-23T21:30:18.577732",
+      "message": "Jupiter quote failed for SAPIJIJU"
+    },
+    {
+      "time": "2026-07-23T21:30:19.460623",
+      "message": "Jupiter quote failed for SAPIJIJU"
     }
   ],
-  "saved_at": "2026-07-23T20:12:29.533286"
+  "saved_at": "2026-07-23T21:30:22.660790"
 }
