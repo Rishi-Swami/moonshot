@@ -9,10 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-07-14T17:58:49.088090",
-      "message": "Jupiter quote failed for Diarrhea"
-    },
-    {
       "time": "2026-07-14T20:44:11.738708",
       "message": "Jupiter quote failed for NAERAC"
     },
@@ -87,7 +83,11 @@
     {
       "time": "2026-07-25T20:31:37.821093",
       "message": "Jupiter quote failed for BDMSIR"
+    },
+    {
+      "time": "2026-07-26T18:13:54.731466",
+      "message": "Jupiter quote failed for FALGOB"
     }
   ],
-  "saved_at": "2026-07-26T17:11:44.168761"
+  "saved_at": "2026-07-26T18:13:58.084481"
 }
