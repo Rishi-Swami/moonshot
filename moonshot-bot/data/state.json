@@ -9,18 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-07-14T20:44:11.738708",
-      "message": "Jupiter quote failed for NAERAC"
-    },
-    {
-      "time": "2026-07-15T21:42:36.235961",
-      "message": "Jupiter quote failed for Mardust"
-    },
-    {
-      "time": "2026-07-16T23:42:09.506986",
-      "message": "Jupiter quote failed for Svaicf"
-    },
-    {
       "time": "2026-07-18T00:02:32.289520",
       "message": "Jupiter quote failed for Lqdodge"
     },
@@ -87,7 +75,19 @@
     {
       "time": "2026-07-26T18:13:54.731466",
       "message": "Jupiter quote failed for FALGOB"
+    },
+    {
+      "time": "2026-07-28T01:07:00.887258",
+      "message": "Jupiter quote failed for AMZDRN"
+    },
+    {
+      "time": "2026-07-28T01:07:00.914501",
+      "message": "Jupiter quote failed for BILL"
+    },
+    {
+      "time": "2026-07-28T01:07:00.923073",
+      "message": "Jupiter quote failed for BILL"
     }
   ],
-  "saved_at": "2026-07-27T23:41:36.454920"
+  "saved_at": "2026-07-28T01:07:03.837444"
 }
