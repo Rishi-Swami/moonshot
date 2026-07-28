@@ -9,14 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-07-18T16:36:30.530919",
-      "message": "Jupiter quote failed for UATGC"
-    },
-    {
-      "time": "2026-07-18T21:35:02.991220",
-      "message": "Jupiter quote failed for Evcs"
-    },
-    {
       "time": "2026-07-19T15:40:22.534604",
       "message": "Jupiter quote failed for Qrnode"
     },
@@ -87,7 +79,15 @@
     {
       "time": "2026-07-28T17:49:07.966499",
       "message": "Jupiter quote failed for Anidrg"
+    },
+    {
+      "time": "2026-07-28T21:44:57.743017",
+      "message": "Jupiter quote failed for Kimchi"
+    },
+    {
+      "time": "2026-07-28T21:44:57.762957",
+      "message": "Jupiter quote failed for Kimchi"
     }
   ],
-  "saved_at": "2026-07-28T20:33:21.476891"
+  "saved_at": "2026-07-28T21:45:01.454449"
 }
