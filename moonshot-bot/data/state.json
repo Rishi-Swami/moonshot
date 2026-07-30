@@ -9,22 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-07-26T18:13:54.731466",
-      "message": "Jupiter quote failed for FALGOB"
-    },
-    {
-      "time": "2026-07-28T01:07:00.887258",
-      "message": "Jupiter quote failed for AMZDRN"
-    },
-    {
-      "time": "2026-07-28T01:07:00.914501",
-      "message": "Jupiter quote failed for BILL"
-    },
-    {
-      "time": "2026-07-28T01:07:00.923073",
-      "message": "Jupiter quote failed for BILL"
-    },
-    {
       "time": "2026-07-28T17:49:07.966499",
       "message": "Jupiter quote failed for Anidrg"
     },
@@ -87,7 +71,23 @@
     {
       "time": "2026-07-30T19:03:59.919520",
       "message": "Jupiter quote failed for PIPECATE"
+    },
+    {
+      "time": "2026-07-30T20:32:59.498476",
+      "message": "Jupiter quote failed for MOONDOGECOIN"
+    },
+    {
+      "time": "2026-07-30T20:33:03.044746",
+      "message": "Jupiter quote failed for PIPECATE"
+    },
+    {
+      "time": "2026-07-30T20:33:03.052756",
+      "message": "Jupiter quote failed for PIPECATE"
+    },
+    {
+      "time": "2026-07-30T20:33:03.060645",
+      "message": "Jupiter quote failed for PIPECATE"
     }
   ],
-  "saved_at": "2026-07-30T19:04:01.016872"
+  "saved_at": "2026-07-30T20:33:04.106680"
 }
