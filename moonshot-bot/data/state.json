@@ -9,18 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-07-20T14:21:08.449239",
-      "message": "Jupiter quote failed for CASHCAT"
-    },
-    {
-      "time": "2026-07-20T14:21:10.880895",
-      "message": "Jupiter quote failed for PUCK"
-    },
-    {
-      "time": "2026-07-20T22:29:04.302803",
-      "message": "Jupiter quote failed for CFDB"
-    },
-    {
       "time": "2026-07-21T18:47:07.163271",
       "message": "Jupiter quote failed for GSGS"
     },
@@ -87,7 +75,19 @@
     {
       "time": "2026-07-29T16:01:38.291659",
       "message": "Jupiter quote failed for XIDRON"
+    },
+    {
+      "time": "2026-07-30T14:19:12.153115",
+      "message": "Jupiter quote failed for PIPECATE"
+    },
+    {
+      "time": "2026-07-30T14:19:12.182467",
+      "message": "Jupiter quote failed for PIPECATE"
+    },
+    {
+      "time": "2026-07-30T14:19:12.205335",
+      "message": "Jupiter quote failed for PIPECATE"
     }
   ],
-  "saved_at": "2026-07-30T00:51:19.547137"
+  "saved_at": "2026-07-30T14:19:13.259489"
 }
