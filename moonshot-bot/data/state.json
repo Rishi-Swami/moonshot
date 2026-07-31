@@ -9,26 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-07-31T17:58:10.937427",
-      "message": "Jupiter quote failed for PIPECATE"
-    },
-    {
-      "time": "2026-07-31T17:58:11.931412",
-      "message": "Jupiter quote failed for PIPECATE"
-    },
-    {
-      "time": "2026-07-31T17:58:11.939212",
-      "message": "Jupiter quote failed for PIPECATE"
-    },
-    {
-      "time": "2026-07-31T19:46:20.665923",
-      "message": "Jupiter quote failed for PIPECATE"
-    },
-    {
-      "time": "2026-07-31T19:46:20.676224",
-      "message": "Jupiter quote failed for PIPECATE"
-    },
-    {
       "time": "2026-07-31T19:46:20.685552",
       "message": "Jupiter quote failed for PIPECATE"
     },
@@ -87,7 +67,27 @@
     {
       "time": "2026-07-31T21:53:37.700118",
       "message": "Jupiter quote failed for PIPECATE"
+    },
+    {
+      "time": "2026-07-31T23:01:40.568932",
+      "message": "Jupiter quote failed for PIPECATE"
+    },
+    {
+      "time": "2026-07-31T23:01:40.578642",
+      "message": "Jupiter quote failed for PIPECATE"
+    },
+    {
+      "time": "2026-07-31T23:01:40.588241",
+      "message": "Jupiter quote failed for PIPECATE"
+    },
+    {
+      "time": "2026-07-31T23:01:41.580560",
+      "message": "Jupiter quote failed for PIPECATE"
+    },
+    {
+      "time": "2026-07-31T23:01:41.592454",
+      "message": "Jupiter quote failed for PIPECATE"
     }
   ],
-  "saved_at": "2026-07-31T21:53:38.701483"
+  "saved_at": "2026-07-31T23:01:42.593891"
 }
