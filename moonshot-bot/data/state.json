@@ -9,10 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-08-01T21:06:27.028390",
-      "message": "Jupiter quote failed for PIPECATE"
-    },
-    {
       "time": "2026-08-01T21:06:27.036155",
       "message": "Jupiter quote failed for PIPECATE"
     },
@@ -87,7 +83,11 @@
     {
       "time": "2026-08-02T15:54:46.011879",
       "message": "Jupiter quote failed for CATE"
+    },
+    {
+      "time": "2026-08-02T18:09:19.914143",
+      "message": "Jupiter quote failed for CATE"
     }
   ],
-  "saved_at": "2026-08-02T17:05:12.250300"
+  "saved_at": "2026-08-02T18:09:25.845985"
 }
