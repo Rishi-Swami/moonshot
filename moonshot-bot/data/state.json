@@ -9,26 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-08-02T00:14:56.113910",
-      "message": "Jupiter quote failed for PIPECATE"
-    },
-    {
-      "time": "2026-08-02T00:14:56.135764",
-      "message": "Jupiter quote failed for PIPECATE"
-    },
-    {
-      "time": "2026-08-02T00:14:56.153273",
-      "message": "Jupiter quote failed for PIPECATE"
-    },
-    {
-      "time": "2026-08-02T00:14:57.126370",
-      "message": "Jupiter quote failed for PIPECATE"
-    },
-    {
-      "time": "2026-08-02T00:14:57.142723",
-      "message": "Jupiter quote failed for PIPECATE"
-    },
-    {
       "time": "2026-08-02T14:50:02.156817",
       "message": "Jupiter quote failed for CATE"
     },
@@ -87,7 +67,27 @@
     {
       "time": "2026-08-05T16:15:09.633659",
       "message": "Jupiter quote failed for PEEKO"
+    },
+    {
+      "time": "2026-08-05T17:57:03.914173",
+      "message": "Jupiter quote failed for PEEKO"
+    },
+    {
+      "time": "2026-08-05T17:57:03.930048",
+      "message": "Jupiter quote failed for PEEKO"
+    },
+    {
+      "time": "2026-08-05T17:57:03.942685",
+      "message": "Jupiter quote failed for PEEKO"
+    },
+    {
+      "time": "2026-08-05T17:57:04.926112",
+      "message": "Jupiter quote failed for PEEKO"
+    },
+    {
+      "time": "2026-08-05T17:57:04.939879",
+      "message": "Jupiter quote failed for PEEKO"
     }
   ],
-  "saved_at": "2026-08-05T16:15:10.635053"
+  "saved_at": "2026-08-05T17:57:05.941324"
 }
