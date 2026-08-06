@@ -9,38 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-08-05T20:50:48.295222",
-      "message": "Jupiter quote failed for PEEKO"
-    },
-    {
-      "time": "2026-08-05T20:50:48.307665",
-      "message": "Jupiter quote failed for PEEKO"
-    },
-    {
-      "time": "2026-08-05T20:50:48.314917",
-      "message": "Jupiter quote failed for PEEKO"
-    },
-    {
-      "time": "2026-08-05T20:50:49.306662",
-      "message": "Jupiter quote failed for PEEKO"
-    },
-    {
-      "time": "2026-08-05T20:50:49.317539",
-      "message": "Jupiter quote failed for PEEKO"
-    },
-    {
-      "time": "2026-08-05T22:07:04.415420",
-      "message": "Jupiter quote failed for PEEKO"
-    },
-    {
-      "time": "2026-08-05T22:07:04.426620",
-      "message": "Jupiter quote failed for PEEKO"
-    },
-    {
-      "time": "2026-08-05T22:07:04.436759",
-      "message": "Jupiter quote failed for PEEKO"
-    },
-    {
       "time": "2026-08-05T22:07:05.426901",
       "message": "Jupiter quote failed for PEEKO"
     },
@@ -87,7 +55,39 @@
     {
       "time": "2026-08-06T00:14:13.209612",
       "message": "Jupiter quote failed for PEEKO"
+    },
+    {
+      "time": "2026-08-06T14:26:17.688513",
+      "message": "Jupiter quote failed for ICM"
+    },
+    {
+      "time": "2026-08-06T14:26:17.699608",
+      "message": "Jupiter quote failed for ICM"
+    },
+    {
+      "time": "2026-08-06T14:26:17.707009",
+      "message": "Jupiter quote failed for ICM"
+    },
+    {
+      "time": "2026-08-06T14:26:19.000911",
+      "message": "Jupiter quote failed for JINPACHI"
+    },
+    {
+      "time": "2026-08-06T14:26:19.009730",
+      "message": "Jupiter quote failed for JINPACHI"
+    },
+    {
+      "time": "2026-08-06T14:26:19.022299",
+      "message": "Jupiter quote failed for JINPACHI"
+    },
+    {
+      "time": "2026-08-06T14:26:20.013073",
+      "message": "Jupiter quote failed for JINPACHI"
+    },
+    {
+      "time": "2026-08-06T14:26:20.023403",
+      "message": "Jupiter quote failed for JINPACHI"
     }
   ],
-  "saved_at": "2026-08-06T00:14:14.210972"
+  "saved_at": "2026-08-06T14:26:21.024786"
 }
