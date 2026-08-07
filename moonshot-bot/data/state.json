@@ -9,10 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-08-05T23:17:29.902192",
-      "message": "Jupiter quote failed for PEEKO"
-    },
-    {
       "time": "2026-08-05T23:17:29.911721",
       "message": "Jupiter quote failed for PEEKO"
     },
@@ -87,7 +83,11 @@
     {
       "time": "2026-08-07T00:16:20.639316",
       "message": "Jupiter quote failed for JINPACHI"
+    },
+    {
+      "time": "2026-08-07T14:28:31.248802",
+      "message": "Jupiter quote failed for Herd"
     }
   ],
-  "saved_at": "2026-08-07T13:16:42.101555"
+  "saved_at": "2026-08-07T14:28:33.971850"
 }
