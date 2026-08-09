@@ -9,14 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-08-05T23:17:29.911721",
-      "message": "Jupiter quote failed for PEEKO"
-    },
-    {
-      "time": "2026-08-06T00:14:12.190487",
-      "message": "Jupiter quote failed for PEEKO"
-    },
-    {
       "time": "2026-08-06T00:14:12.201681",
       "message": "Jupiter quote failed for PEEKO"
     },
@@ -87,7 +79,15 @@
     {
       "time": "2026-08-07T14:28:31.248802",
       "message": "Jupiter quote failed for Herd"
+    },
+    {
+      "time": "2026-08-09T15:51:43.680302",
+      "message": "Jupiter quote failed for TIER10K"
+    },
+    {
+      "time": "2026-08-09T15:51:44.025071",
+      "message": "Jupiter quote failed for TIER10K"
     }
   ],
-  "saved_at": "2026-08-09T15:15:00.531346"
+  "saved_at": "2026-08-09T15:51:54.187946"
 }
