@@ -9,10 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-08-06T00:14:13.209612",
-      "message": "Jupiter quote failed for PEEKO"
-    },
-    {
       "time": "2026-08-06T14:26:17.688513",
       "message": "Jupiter quote failed for ICM"
     },
@@ -87,7 +83,11 @@
     {
       "time": "2026-08-09T23:29:34.487814",
       "message": "Jupiter quote failed for TOAD"
+    },
+    {
+      "time": "2026-08-10T14:35:14.578584",
+      "message": "Jupiter quote failed for USOC"
     }
   ],
-  "saved_at": "2026-08-10T13:22:13.432316"
+  "saved_at": "2026-08-10T14:35:16.876540"
 }
