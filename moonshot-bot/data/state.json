@@ -9,26 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-08-06T14:26:17.707009",
-      "message": "Jupiter quote failed for ICM"
-    },
-    {
-      "time": "2026-08-06T14:26:19.000911",
-      "message": "Jupiter quote failed for JINPACHI"
-    },
-    {
-      "time": "2026-08-06T14:26:19.009730",
-      "message": "Jupiter quote failed for JINPACHI"
-    },
-    {
-      "time": "2026-08-06T14:26:19.022299",
-      "message": "Jupiter quote failed for JINPACHI"
-    },
-    {
-      "time": "2026-08-06T14:26:20.013073",
-      "message": "Jupiter quote failed for JINPACHI"
-    },
-    {
       "time": "2026-08-06T14:26:20.023403",
       "message": "Jupiter quote failed for JINPACHI"
     },
@@ -87,7 +67,27 @@
     {
       "time": "2026-08-11T22:19:42.842148",
       "message": "Jupiter quote failed for Dogface"
+    },
+    {
+      "time": "2026-08-12T13:22:20.493761",
+      "message": "Jupiter quote failed for TWSIREN"
+    },
+    {
+      "time": "2026-08-12T13:22:25.856686",
+      "message": "Jupiter quote failed for FEMO"
+    },
+    {
+      "time": "2026-08-12T13:22:25.868854",
+      "message": "Jupiter quote failed for FEMO"
+    },
+    {
+      "time": "2026-08-12T13:22:25.880238",
+      "message": "Jupiter quote failed for FEMO"
+    },
+    {
+      "time": "2026-08-12T13:22:26.869591",
+      "message": "Jupiter quote failed for TWSIREN"
     }
   ],
-  "saved_at": "2026-08-12T00:00:58.258052"
+  "saved_at": "2026-08-12T13:22:29.445369"
 }
