@@ -9,10 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-08-07T00:16:19.430715",
-      "message": "Jupiter quote failed for JINPACHI"
-    },
-    {
       "time": "2026-08-07T00:16:19.559865",
       "message": "Jupiter quote failed for JINPACHI"
     },
@@ -87,7 +83,11 @@
     {
       "time": "2026-08-13T22:09:55.861595",
       "message": "Jupiter quote failed for KPMGROO"
+    },
+    {
+      "time": "2026-08-13T23:55:08.344120",
+      "message": "Jupiter quote failed for Dsv4"
     }
   ],
-  "saved_at": "2026-08-13T23:04:18.209401"
+  "saved_at": "2026-08-13T23:55:22.901671"
 }
