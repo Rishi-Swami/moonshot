@@ -9,10 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-08-09T20:17:24.120101",
-      "message": "Jupiter quote failed for PUMP"
-    },
-    {
       "time": "2026-08-09T23:29:34.487814",
       "message": "Jupiter quote failed for TOAD"
     },
@@ -87,7 +83,11 @@
     {
       "time": "2026-08-14T20:07:05.339080",
       "message": "Jupiter quote failed for KII"
+    },
+    {
+      "time": "2026-08-14T20:44:33.979704",
+      "message": "Jupiter quote failed for KII"
     }
   ],
-  "saved_at": "2026-08-14T20:07:20.536598"
+  "saved_at": "2026-08-14T20:44:50.219561"
 }
