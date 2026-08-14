@@ -9,10 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-08-07T14:28:31.248802",
-      "message": "Jupiter quote failed for Herd"
-    },
-    {
       "time": "2026-08-09T15:51:43.680302",
       "message": "Jupiter quote failed for TIER10K"
     },
@@ -87,7 +83,11 @@
     {
       "time": "2026-08-14T14:29:10.644242",
       "message": "Jupiter quote failed for Beackey"
+    },
+    {
+      "time": "2026-08-14T17:30:04.970251",
+      "message": "Jupiter quote failed for KII"
     }
   ],
-  "saved_at": "2026-08-14T16:25:20.844718"
+  "saved_at": "2026-08-14T17:30:19.964990"
 }
