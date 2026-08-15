@@ -9,14 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-08-09T23:29:34.487814",
-      "message": "Jupiter quote failed for TOAD"
-    },
-    {
-      "time": "2026-08-10T14:35:14.578584",
-      "message": "Jupiter quote failed for USOC"
-    },
-    {
       "time": "2026-08-11T17:35:38.074382",
       "message": "Jupiter quote failed for Swquill"
     },
@@ -87,7 +79,15 @@
     {
       "time": "2026-08-14T20:44:33.979704",
       "message": "Jupiter quote failed for KII"
+    },
+    {
+      "time": "2026-08-15T15:52:56.103553",
+      "message": "Jupiter quote failed for KII"
+    },
+    {
+      "time": "2026-08-15T15:53:08.267212",
+      "message": "Jupiter quote failed for Kabpar"
     }
   ],
-  "saved_at": "2026-08-15T15:32:02.082493"
+  "saved_at": "2026-08-15T15:53:10.754556"
 }
