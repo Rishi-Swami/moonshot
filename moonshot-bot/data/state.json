@@ -9,10 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-08-12T13:22:25.868854",
-      "message": "Jupiter quote failed for FEMO"
-    },
-    {
       "time": "2026-08-12T13:22:25.880238",
       "message": "Jupiter quote failed for FEMO"
     },
@@ -87,7 +83,11 @@
     {
       "time": "2026-08-16T19:40:47.274220",
       "message": "Jupiter quote failed for DHAKMUR"
+    },
+    {
+      "time": "2026-08-16T20:32:42.667826",
+      "message": "Jupiter quote failed for CRASHIUS"
     }
   ],
-  "saved_at": "2026-08-16T19:57:53.130950"
+  "saved_at": "2026-08-16T20:32:45.215331"
 }
