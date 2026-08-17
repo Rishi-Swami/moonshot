@@ -9,18 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-08-12T13:22:25.880238",
-      "message": "Jupiter quote failed for FEMO"
-    },
-    {
-      "time": "2026-08-12T13:22:26.869591",
-      "message": "Jupiter quote failed for TWSIREN"
-    },
-    {
-      "time": "2026-08-12T17:38:46.317021",
-      "message": "Jupiter quote failed for CNNSALE"
-    },
-    {
       "time": "2026-08-13T22:09:55.861595",
       "message": "Jupiter quote failed for KPMGROO"
     },
@@ -87,7 +75,19 @@
     {
       "time": "2026-08-16T20:32:42.667826",
       "message": "Jupiter quote failed for CRASHIUS"
+    },
+    {
+      "time": "2026-08-17T16:02:02.868456",
+      "message": "Jupiter quote failed for EYE"
+    },
+    {
+      "time": "2026-08-17T16:02:02.876838",
+      "message": "Jupiter quote failed for EYE"
+    },
+    {
+      "time": "2026-08-17T16:02:02.885501",
+      "message": "Jupiter quote failed for EYE"
     }
   ],
-  "saved_at": "2026-08-17T15:43:39.797298"
+  "saved_at": "2026-08-17T16:02:17.315173"
 }
