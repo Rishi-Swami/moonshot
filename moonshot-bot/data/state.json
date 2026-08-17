@@ -9,18 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-08-13T22:09:55.861595",
-      "message": "Jupiter quote failed for KPMGROO"
-    },
-    {
-      "time": "2026-08-13T23:55:08.344120",
-      "message": "Jupiter quote failed for Dsv4"
-    },
-    {
-      "time": "2026-08-14T13:19:16.217396",
-      "message": "Jupiter quote failed for KII"
-    },
-    {
       "time": "2026-08-14T14:29:09.930129",
       "message": "Jupiter quote failed for KII"
     },
@@ -87,7 +75,19 @@
     {
       "time": "2026-08-17T16:02:02.885501",
       "message": "Jupiter quote failed for EYE"
+    },
+    {
+      "time": "2026-08-17T16:41:09.428385",
+      "message": "Jupiter quote failed for EYE"
+    },
+    {
+      "time": "2026-08-17T16:41:09.439318",
+      "message": "Jupiter quote failed for EYE"
+    },
+    {
+      "time": "2026-08-17T16:41:09.866682",
+      "message": "Jupiter quote failed for EYE"
     }
   ],
-  "saved_at": "2026-08-17T16:02:17.315173"
+  "saved_at": "2026-08-17T16:41:23.618830"
 }
