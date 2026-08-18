@@ -9,22 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-08-18T17:48:30.998531",
-      "message": "Jupiter quote failed for NIUNAI"
-    },
-    {
-      "time": "2026-08-18T17:48:31.011679",
-      "message": "Jupiter quote failed for NIUNAI"
-    },
-    {
-      "time": "2026-08-18T17:48:31.024040",
-      "message": "Jupiter quote failed for NIUNAI"
-    },
-    {
-      "time": "2026-08-18T17:48:32.009442",
-      "message": "Jupiter quote failed for NIUNAI"
-    },
-    {
       "time": "2026-08-18T18:17:41.843280",
       "message": "Jupiter quote failed for NIUNAI"
     },
@@ -87,7 +71,23 @@
     {
       "time": "2026-08-18T19:56:35.841854",
       "message": "Jupiter quote failed for NIUNAI"
+    },
+    {
+      "time": "2026-08-18T20:32:50.936091",
+      "message": "Jupiter quote failed for NIUNAI"
+    },
+    {
+      "time": "2026-08-18T20:32:50.953843",
+      "message": "Jupiter quote failed for NIUNAI"
+    },
+    {
+      "time": "2026-08-18T20:32:50.967541",
+      "message": "Jupiter quote failed for NIUNAI"
+    },
+    {
+      "time": "2026-08-18T20:32:51.948137",
+      "message": "Jupiter quote failed for NIUNAI"
     }
   ],
-  "saved_at": "2026-08-18T19:56:36.859762"
+  "saved_at": "2026-08-18T20:32:52.998367"
 }
