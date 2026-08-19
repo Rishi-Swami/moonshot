@@ -9,10 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-08-18T22:25:07.566720",
-      "message": "Jupiter quote failed for NIUNAI"
-    },
-    {
       "time": "2026-08-18T22:25:07.608612",
       "message": "Jupiter quote failed for NIUNAI"
     },
@@ -87,7 +83,11 @@
     {
       "time": "2026-08-19T19:55:49.674532",
       "message": "Jupiter quote failed for BUY"
+    },
+    {
+      "time": "2026-08-19T21:00:33.240978",
+      "message": "Jupiter quote failed for CRYOIBM"
     }
   ],
-  "saved_at": "2026-08-19T20:35:31.347665"
+  "saved_at": "2026-08-19T21:00:47.956901"
 }
