@@ -9,14 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-08-18T23:19:36.147435",
-      "message": "Jupiter quote failed for NIUNAI"
-    },
-    {
-      "time": "2026-08-18T23:19:36.170735",
-      "message": "Jupiter quote failed for NIUNAI"
-    },
-    {
       "time": "2026-08-18T23:19:36.193811",
       "message": "Jupiter quote failed for NIUNAI"
     },
@@ -87,7 +79,15 @@
     {
       "time": "2026-08-23T16:52:43.245639",
       "message": "Jupiter quote failed for CATALORIAN"
+    },
+    {
+      "time": "2026-08-23T17:19:12.227033",
+      "message": "Jupiter quote failed for CATALORIAN"
+    },
+    {
+      "time": "2026-08-23T17:19:12.826528",
+      "message": "Jupiter quote failed for Rmbust"
     }
   ],
-  "saved_at": "2026-08-23T16:52:57.592346"
+  "saved_at": "2026-08-23T17:19:26.729695"
 }
