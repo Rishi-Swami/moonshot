@@ -9,22 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-08-19T00:01:06.402726",
-      "message": "Jupiter quote failed for NIUNAI"
-    },
-    {
-      "time": "2026-08-19T00:01:07.377178",
-      "message": "Jupiter quote failed for NIUNAI"
-    },
-    {
-      "time": "2026-08-19T19:55:49.674532",
-      "message": "Jupiter quote failed for BUY"
-    },
-    {
-      "time": "2026-08-19T21:00:33.240978",
-      "message": "Jupiter quote failed for CRYOIBM"
-    },
-    {
       "time": "2026-08-21T22:58:10.631179",
       "message": "Jupiter quote failed for Eirepwr"
     },
@@ -87,7 +71,23 @@
     {
       "time": "2026-08-23T20:30:32.132149",
       "message": "Jupiter quote failed for XCAT"
+    },
+    {
+      "time": "2026-08-23T22:07:57.214390",
+      "message": "Jupiter quote failed for USWR"
+    },
+    {
+      "time": "2026-08-23T22:07:57.266299",
+      "message": "Jupiter quote failed for DRESYN"
+    },
+    {
+      "time": "2026-08-23T22:07:57.275611",
+      "message": "Jupiter quote failed for BLUNTZ"
+    },
+    {
+      "time": "2026-08-23T22:07:58.225737",
+      "message": "Jupiter quote failed for BLUNTZ"
     }
   ],
-  "saved_at": "2026-08-23T21:48:32.745390"
+  "saved_at": "2026-08-23T22:08:00.538617"
 }
