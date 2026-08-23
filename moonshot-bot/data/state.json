@@ -9,10 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-08-18T22:52:33.814773",
-      "message": "Jupiter quote failed for NIUNAI"
-    },
-    {
       "time": "2026-08-18T22:52:33.827111",
       "message": "Jupiter quote failed for NIUNAI"
     },
@@ -87,7 +83,11 @@
     {
       "time": "2026-08-22T17:41:59.015895",
       "message": "Jupiter quote failed for Hollbot"
+    },
+    {
+      "time": "2026-08-23T14:31:21.219091",
+      "message": "Jupiter quote failed for BOLTBOT"
     }
   ],
-  "saved_at": "2026-08-23T13:56:52.997596"
+  "saved_at": "2026-08-23T14:31:35.381989"
 }
