@@ -9,26 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-08-18T23:19:36.193811",
-      "message": "Jupiter quote failed for NIUNAI"
-    },
-    {
-      "time": "2026-08-18T23:19:37.158841",
-      "message": "Jupiter quote failed for NIUNAI"
-    },
-    {
-      "time": "2026-08-18T23:43:24.281376",
-      "message": "Jupiter quote failed for NIUNAI"
-    },
-    {
-      "time": "2026-08-18T23:43:24.299526",
-      "message": "Jupiter quote failed for NIUNAI"
-    },
-    {
-      "time": "2026-08-18T23:43:24.314843",
-      "message": "Jupiter quote failed for NIUNAI"
-    },
-    {
       "time": "2026-08-18T23:43:25.291925",
       "message": "Jupiter quote failed for NIUNAI"
     },
@@ -87,7 +67,27 @@
     {
       "time": "2026-08-23T17:19:12.826528",
       "message": "Jupiter quote failed for Rmbust"
+    },
+    {
+      "time": "2026-08-23T19:55:32.532551",
+      "message": "Jupiter quote failed for XCAT"
+    },
+    {
+      "time": "2026-08-23T19:55:32.540770",
+      "message": "Jupiter quote failed for XCAT"
+    },
+    {
+      "time": "2026-08-23T19:55:32.548719",
+      "message": "Jupiter quote failed for XCAT"
+    },
+    {
+      "time": "2026-08-23T19:55:33.543338",
+      "message": "Jupiter quote failed for XCAT"
+    },
+    {
+      "time": "2026-08-23T19:55:33.550655",
+      "message": "Jupiter quote failed for XCAT"
     }
   ],
-  "saved_at": "2026-08-23T19:37:06.058117"
+  "saved_at": "2026-08-23T19:55:47.179019"
 }
