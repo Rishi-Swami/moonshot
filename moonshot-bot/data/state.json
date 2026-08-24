@@ -9,10 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-08-23T15:52:43.211040",
-      "message": "Jupiter quote failed for CATALORIAN"
-    },
-    {
       "time": "2026-08-23T16:23:51.363966",
       "message": "Jupiter quote failed for CATALORIAN"
     },
@@ -87,7 +83,11 @@
     {
       "time": "2026-08-24T15:38:04.399884",
       "message": "Jupiter quote failed for CITRINI"
+    },
+    {
+      "time": "2026-08-24T16:15:57.817458",
+      "message": "Jupiter quote failed for SOL"
     }
   ],
-  "saved_at": "2026-08-24T15:38:18.852703"
+  "saved_at": "2026-08-24T16:16:12.830692"
 }
