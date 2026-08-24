@@ -9,18 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-08-21T22:58:10.631179",
-      "message": "Jupiter quote failed for Eirepwr"
-    },
-    {
-      "time": "2026-08-22T17:41:59.015895",
-      "message": "Jupiter quote failed for Hollbot"
-    },
-    {
-      "time": "2026-08-23T14:31:21.219091",
-      "message": "Jupiter quote failed for BOLTBOT"
-    },
-    {
       "time": "2026-08-23T15:52:43.211040",
       "message": "Jupiter quote failed for CATALORIAN"
     },
@@ -87,7 +75,19 @@
     {
       "time": "2026-08-23T22:07:58.225737",
       "message": "Jupiter quote failed for BLUNTZ"
+    },
+    {
+      "time": "2026-08-24T15:38:04.367399",
+      "message": "Jupiter quote failed for CITRINI"
+    },
+    {
+      "time": "2026-08-24T15:38:04.384948",
+      "message": "Jupiter quote failed for CITRINI"
+    },
+    {
+      "time": "2026-08-24T15:38:04.399884",
+      "message": "Jupiter quote failed for CITRINI"
     }
   ],
-  "saved_at": "2026-08-24T14:53:01.275522"
+  "saved_at": "2026-08-24T15:38:18.852703"
 }
