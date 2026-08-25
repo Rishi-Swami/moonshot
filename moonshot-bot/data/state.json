@@ -9,18 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-08-23T19:55:33.550655",
-      "message": "Jupiter quote failed for XCAT"
-    },
-    {
-      "time": "2026-08-23T20:30:31.615819",
-      "message": "Jupiter quote failed for KEJTIME"
-    },
-    {
-      "time": "2026-08-23T20:30:32.016022",
-      "message": "Jupiter quote failed for XCAT"
-    },
-    {
       "time": "2026-08-23T20:30:32.132149",
       "message": "Jupiter quote failed for XCAT"
     },
@@ -87,7 +75,19 @@
     {
       "time": "2026-08-25T23:13:10.768571",
       "message": "Jupiter quote failed for Pistacio"
+    },
+    {
+      "time": "2026-08-25T23:42:01.975441",
+      "message": "Jupiter quote failed for SOL"
+    },
+    {
+      "time": "2026-08-25T23:42:02.196536",
+      "message": "Jupiter quote failed for Pistacio"
+    },
+    {
+      "time": "2026-08-25T23:42:02.205681",
+      "message": "Jupiter quote failed for Pistacio"
     }
   ],
-  "saved_at": "2026-08-25T23:13:13.482048"
+  "saved_at": "2026-08-25T23:42:16.653669"
 }
