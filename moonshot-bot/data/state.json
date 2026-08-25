@@ -9,22 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-08-23T16:52:43.245639",
-      "message": "Jupiter quote failed for CATALORIAN"
-    },
-    {
-      "time": "2026-08-23T17:19:12.227033",
-      "message": "Jupiter quote failed for CATALORIAN"
-    },
-    {
-      "time": "2026-08-23T17:19:12.826528",
-      "message": "Jupiter quote failed for Rmbust"
-    },
-    {
-      "time": "2026-08-23T19:55:32.532551",
-      "message": "Jupiter quote failed for XCAT"
-    },
-    {
       "time": "2026-08-23T19:55:32.540770",
       "message": "Jupiter quote failed for XCAT"
     },
@@ -87,7 +71,23 @@
     {
       "time": "2026-08-24T18:13:22.329082",
       "message": "Jupiter quote failed for CUTDUCK"
+    },
+    {
+      "time": "2026-08-25T18:15:49.319177",
+      "message": "Jupiter quote failed for DOLLY"
+    },
+    {
+      "time": "2026-08-25T18:15:49.337743",
+      "message": "Jupiter quote failed for DOLLY"
+    },
+    {
+      "time": "2026-08-25T18:15:49.837451",
+      "message": "Jupiter quote failed for DOLLY"
+    },
+    {
+      "time": "2026-08-25T18:15:50.330028",
+      "message": "Jupiter quote failed for DOLLY"
     }
   ],
-  "saved_at": "2026-08-25T17:42:45.731328"
+  "saved_at": "2026-08-25T18:16:03.797371"
 }
