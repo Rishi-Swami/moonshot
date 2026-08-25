@@ -9,10 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-08-23T19:55:33.543338",
-      "message": "Jupiter quote failed for XCAT"
-    },
-    {
       "time": "2026-08-23T19:55:33.550655",
       "message": "Jupiter quote failed for XCAT"
     },
@@ -87,7 +83,11 @@
     {
       "time": "2026-08-25T22:11:03.819343",
       "message": "Jupiter quote failed for sus"
+    },
+    {
+      "time": "2026-08-25T23:13:10.768571",
+      "message": "Jupiter quote failed for Pistacio"
     }
   ],
-  "saved_at": "2026-08-25T22:47:47.192241"
+  "saved_at": "2026-08-25T23:13:13.482048"
 }
