@@ -9,10 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-08-23T22:07:58.225737",
-      "message": "Jupiter quote failed for BLUNTZ"
-    },
-    {
       "time": "2026-08-24T15:38:04.367399",
       "message": "Jupiter quote failed for CITRINI"
     },
@@ -87,7 +83,11 @@
     {
       "time": "2026-08-26T16:24:38.986963",
       "message": "Jupiter quote failed for FWHISTL"
+    },
+    {
+      "time": "2026-08-26T20:15:31.359854",
+      "message": "Jupiter quote failed for SOL"
     }
   ],
-  "saved_at": "2026-08-26T18:18:10.033014"
+  "saved_at": "2026-08-26T20:15:46.822575"
 }
