@@ -9,10 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-08-23T22:07:57.275611",
-      "message": "Jupiter quote failed for BLUNTZ"
-    },
-    {
       "time": "2026-08-23T22:07:58.225737",
       "message": "Jupiter quote failed for BLUNTZ"
     },
@@ -87,7 +83,11 @@
     {
       "time": "2026-08-26T14:01:16.096340",
       "message": "Jupiter quote failed for UEFACUP"
+    },
+    {
+      "time": "2026-08-26T16:24:38.986963",
+      "message": "Jupiter quote failed for FWHISTL"
     }
   ],
-  "saved_at": "2026-08-26T14:57:44.536288"
+  "saved_at": "2026-08-26T16:24:41.499556"
 }
