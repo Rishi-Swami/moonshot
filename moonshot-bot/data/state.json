@@ -9,14 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-08-24T15:38:04.399884",
-      "message": "Jupiter quote failed for CITRINI"
-    },
-    {
-      "time": "2026-08-24T16:15:57.817458",
-      "message": "Jupiter quote failed for SOL"
-    },
-    {
       "time": "2026-08-24T18:13:22.329082",
       "message": "Jupiter quote failed for CUTDUCK"
     },
@@ -87,7 +79,15 @@
     {
       "time": "2026-08-28T06:06:18.255930",
       "message": "Jupiter quote failed for PINK"
+    },
+    {
+      "time": "2026-08-29T21:55:30.033297",
+      "message": "Jupiter quote failed for CHARLESTONAI"
+    },
+    {
+      "time": "2026-08-29T21:55:30.195611",
+      "message": "Jupiter quote failed for ICEBAL"
     }
   ],
-  "saved_at": "2026-08-29T19:30:12.972569"
+  "saved_at": "2026-08-29T21:55:33.090870"
 }
