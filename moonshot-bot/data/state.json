@@ -9,10 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-08-24T18:13:22.329082",
-      "message": "Jupiter quote failed for CUTDUCK"
-    },
-    {
       "time": "2026-08-25T18:15:49.319177",
       "message": "Jupiter quote failed for DOLLY"
     },
@@ -87,7 +83,11 @@
     {
       "time": "2026-08-29T21:55:30.195611",
       "message": "Jupiter quote failed for ICEBAL"
+    },
+    {
+      "time": "2026-08-30T19:24:33.468790",
+      "message": "Jupiter quote failed for TARHEEL"
     }
   ],
-  "saved_at": "2026-08-30T16:29:09.499235"
+  "saved_at": "2026-08-30T19:24:47.056062"
 }
