@@ -9,14 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-08-29T21:55:30.195611",
-      "message": "Jupiter quote failed for ICEBAL"
-    },
-    {
-      "time": "2026-08-30T19:24:33.468790",
-      "message": "Jupiter quote failed for TARHEEL"
-    },
-    {
       "time": "2026-08-31T00:27:02.968234",
       "message": "Jupiter quote failed for FLA30"
     },
@@ -87,7 +79,15 @@
     {
       "time": "2026-09-06T21:40:01.453359",
       "message": "Jupiter quote failed for PENGU"
+    },
+    {
+      "time": "2026-09-06T23:12:29.392702",
+      "message": "Jupiter quote failed for OPENAI"
+    },
+    {
+      "time": "2026-09-06T23:12:29.404781",
+      "message": "Jupiter quote failed for OPENAI"
     }
   ],
-  "saved_at": "2026-09-06T21:40:15.779689"
+  "saved_at": "2026-09-06T23:12:32.110357"
 }
