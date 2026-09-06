@@ -9,18 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-08-28T06:06:17.956713",
-      "message": "Jupiter quote failed for PINK"
-    },
-    {
-      "time": "2026-08-28T06:06:18.255930",
-      "message": "Jupiter quote failed for PINK"
-    },
-    {
-      "time": "2026-08-29T21:55:30.033297",
-      "message": "Jupiter quote failed for CHARLESTONAI"
-    },
-    {
       "time": "2026-08-29T21:55:30.195611",
       "message": "Jupiter quote failed for ICEBAL"
     },
@@ -87,7 +75,19 @@
     {
       "time": "2026-09-06T17:37:23.496435",
       "message": "Jupiter quote failed for SPYx"
+    },
+    {
+      "time": "2026-09-06T21:40:01.191948",
+      "message": "Jupiter quote failed for PENGU"
+    },
+    {
+      "time": "2026-09-06T21:40:01.218419",
+      "message": "Jupiter quote failed for PENGU"
+    },
+    {
+      "time": "2026-09-06T21:40:01.453359",
+      "message": "Jupiter quote failed for PENGU"
     }
   ],
-  "saved_at": "2026-09-06T19:31:12.582696"
+  "saved_at": "2026-09-06T21:40:15.779689"
 }
