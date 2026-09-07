@@ -9,26 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-09-06T17:37:19.930961",
-      "message": "Jupiter quote failed for ARB"
-    },
-    {
-      "time": "2026-09-06T17:37:19.959810",
-      "message": "Jupiter quote failed for ARB"
-    },
-    {
-      "time": "2026-09-06T17:37:20.908807",
-      "message": "Jupiter quote failed for LOOOONG"
-    },
-    {
-      "time": "2026-09-06T17:37:20.932797",
-      "message": "Jupiter quote failed for LOOOONG"
-    },
-    {
-      "time": "2026-09-06T17:37:22.485071",
-      "message": "Jupiter quote failed for EURC"
-    },
-    {
       "time": "2026-09-06T17:37:22.529838",
       "message": "Jupiter quote failed for EURC"
     },
@@ -87,7 +67,27 @@
     {
       "time": "2026-09-07T17:37:45.166923",
       "message": "Jupiter quote failed for LEVERHEDGE"
+    },
+    {
+      "time": "2026-09-07T20:46:48.328833",
+      "message": "Jupiter quote failed for ZEC"
+    },
+    {
+      "time": "2026-09-07T20:46:48.340711",
+      "message": "Jupiter quote failed for ZEC"
+    },
+    {
+      "time": "2026-09-07T20:46:48.350276",
+      "message": "Jupiter quote failed for ZEC"
+    },
+    {
+      "time": "2026-09-07T20:46:49.340583",
+      "message": "Jupiter quote failed for ZEC"
+    },
+    {
+      "time": "2026-09-07T20:46:49.350964",
+      "message": "Jupiter quote failed for ZEC"
     }
   ],
-  "saved_at": "2026-09-07T17:37:47.823061"
+  "saved_at": "2026-09-07T20:46:53.639905"
 }
