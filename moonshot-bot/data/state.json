@@ -9,22 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-09-07T17:37:40.907306",
-      "message": "Jupiter quote failed for COINx"
-    },
-    {
-      "time": "2026-09-07T17:37:44.142468",
-      "message": "Jupiter quote failed for LEVERHEDGE"
-    },
-    {
-      "time": "2026-09-07T17:37:44.155456",
-      "message": "Jupiter quote failed for LEVERHEDGE"
-    },
-    {
-      "time": "2026-09-07T17:37:44.166730",
-      "message": "Jupiter quote failed for LEVERHEDGE"
-    },
-    {
       "time": "2026-09-07T17:37:45.154657",
       "message": "Jupiter quote failed for LEVERHEDGE"
     },
@@ -87,7 +71,23 @@
     {
       "time": "2026-09-08T19:31:40.818388",
       "message": "Jupiter quote failed for XMR"
+    },
+    {
+      "time": "2026-09-08T22:00:35.419160",
+      "message": "Jupiter quote failed for TREE"
+    },
+    {
+      "time": "2026-09-08T22:00:35.432132",
+      "message": "Jupiter quote failed for TREE"
+    },
+    {
+      "time": "2026-09-08T22:00:35.441505",
+      "message": "Jupiter quote failed for TREE"
+    },
+    {
+      "time": "2026-09-08T22:00:36.430356",
+      "message": "Jupiter quote failed for TREE"
     }
   ],
-  "saved_at": "2026-09-08T19:31:43.543086"
+  "saved_at": "2026-09-08T22:00:39.058984"
 }
