@@ -9,42 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-09-06T17:37:22.529838",
-      "message": "Jupiter quote failed for EURC"
-    },
-    {
-      "time": "2026-09-06T17:37:22.618551",
-      "message": "Jupiter quote failed for SPYx"
-    },
-    {
-      "time": "2026-09-06T17:37:23.496435",
-      "message": "Jupiter quote failed for SPYx"
-    },
-    {
-      "time": "2026-09-06T21:40:01.191948",
-      "message": "Jupiter quote failed for PENGU"
-    },
-    {
-      "time": "2026-09-06T21:40:01.218419",
-      "message": "Jupiter quote failed for PENGU"
-    },
-    {
-      "time": "2026-09-06T21:40:01.453359",
-      "message": "Jupiter quote failed for PENGU"
-    },
-    {
-      "time": "2026-09-06T23:12:29.392702",
-      "message": "Jupiter quote failed for OPENAI"
-    },
-    {
-      "time": "2026-09-06T23:12:29.404781",
-      "message": "Jupiter quote failed for OPENAI"
-    },
-    {
-      "time": "2026-09-07T17:37:40.897070",
-      "message": "Jupiter quote failed for COINx"
-    },
-    {
       "time": "2026-09-07T17:37:40.907306",
       "message": "Jupiter quote failed for COINx"
     },
@@ -87,7 +51,43 @@
     {
       "time": "2026-09-07T20:46:49.350964",
       "message": "Jupiter quote failed for ZEC"
+    },
+    {
+      "time": "2026-09-08T19:31:27.557737",
+      "message": "Jupiter quote failed for MONEROCHAN"
+    },
+    {
+      "time": "2026-09-08T19:31:27.579980",
+      "message": "Jupiter quote failed for XMR"
+    },
+    {
+      "time": "2026-09-08T19:31:27.599988",
+      "message": "Jupiter quote failed for XMR"
+    },
+    {
+      "time": "2026-09-08T19:31:28.570983",
+      "message": "Jupiter quote failed for XMR"
+    },
+    {
+      "time": "2026-09-08T19:31:28.589028",
+      "message": "Jupiter quote failed for XMR"
+    },
+    {
+      "time": "2026-09-08T19:31:39.806901",
+      "message": "Jupiter quote failed for XMR"
+    },
+    {
+      "time": "2026-09-08T19:31:39.831693",
+      "message": "Jupiter quote failed for XMR"
+    },
+    {
+      "time": "2026-09-08T19:31:39.860263",
+      "message": "Jupiter quote failed for XMR"
+    },
+    {
+      "time": "2026-09-08T19:31:40.818388",
+      "message": "Jupiter quote failed for XMR"
     }
   ],
-  "saved_at": "2026-09-08T16:25:32.651569"
+  "saved_at": "2026-09-08T19:31:43.543086"
 }
