@@ -9,10 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-09-07T20:46:48.328833",
-      "message": "Jupiter quote failed for ZEC"
-    },
-    {
       "time": "2026-09-07T20:46:48.340711",
       "message": "Jupiter quote failed for ZEC"
     },
@@ -87,7 +83,11 @@
     {
       "time": "2026-09-09T00:06:43.750152",
       "message": "Jupiter quote failed for KALSHI"
+    },
+    {
+      "time": "2026-09-09T16:21:47.222557",
+      "message": "Jupiter quote failed for SPYx"
     }
   ],
-  "saved_at": "2026-09-09T00:06:57.426620"
+  "saved_at": "2026-09-09T16:21:50.027629"
 }
