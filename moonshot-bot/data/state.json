@@ -9,46 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-09-07T20:46:48.340711",
-      "message": "Jupiter quote failed for ZEC"
-    },
-    {
-      "time": "2026-09-07T20:46:48.350276",
-      "message": "Jupiter quote failed for ZEC"
-    },
-    {
-      "time": "2026-09-07T20:46:49.340583",
-      "message": "Jupiter quote failed for ZEC"
-    },
-    {
-      "time": "2026-09-07T20:46:49.350964",
-      "message": "Jupiter quote failed for ZEC"
-    },
-    {
-      "time": "2026-09-08T19:31:27.557737",
-      "message": "Jupiter quote failed for MONEROCHAN"
-    },
-    {
-      "time": "2026-09-08T19:31:27.579980",
-      "message": "Jupiter quote failed for XMR"
-    },
-    {
-      "time": "2026-09-08T19:31:27.599988",
-      "message": "Jupiter quote failed for XMR"
-    },
-    {
-      "time": "2026-09-08T19:31:28.570983",
-      "message": "Jupiter quote failed for XMR"
-    },
-    {
-      "time": "2026-09-08T19:31:28.589028",
-      "message": "Jupiter quote failed for XMR"
-    },
-    {
-      "time": "2026-09-08T19:31:39.806901",
-      "message": "Jupiter quote failed for XMR"
-    },
-    {
       "time": "2026-09-08T19:31:39.831693",
       "message": "Jupiter quote failed for XMR"
     },
@@ -87,7 +47,47 @@
     {
       "time": "2026-09-09T16:21:47.222557",
       "message": "Jupiter quote failed for SPYx"
+    },
+    {
+      "time": "2026-09-09T21:48:06.034403",
+      "message": "Jupiter quote failed for PONS"
+    },
+    {
+      "time": "2026-09-09T21:48:06.051996",
+      "message": "Jupiter quote failed for PONS"
+    },
+    {
+      "time": "2026-09-09T21:48:06.072027",
+      "message": "Jupiter quote failed for PONS"
+    },
+    {
+      "time": "2026-09-09T21:48:07.046890",
+      "message": "Jupiter quote failed for PONS"
+    },
+    {
+      "time": "2026-09-09T21:48:07.066213",
+      "message": "Jupiter quote failed for PONS"
+    },
+    {
+      "time": "2026-09-09T21:48:12.486828",
+      "message": "Jupiter quote failed for wXRP"
+    },
+    {
+      "time": "2026-09-09T21:48:12.516759",
+      "message": "Jupiter quote failed for OTC"
+    },
+    {
+      "time": "2026-09-09T21:48:12.538737",
+      "message": "Jupiter quote failed for OTC"
+    },
+    {
+      "time": "2026-09-09T21:48:13.498899",
+      "message": "Jupiter quote failed for OTC"
+    },
+    {
+      "time": "2026-09-09T21:48:13.521655",
+      "message": "Jupiter quote failed for OTC"
     }
   ],
-  "saved_at": "2026-09-09T19:21:21.739511"
+  "saved_at": "2026-09-09T21:48:16.305362"
 }
