@@ -9,14 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-09-07T17:37:45.154657",
-      "message": "Jupiter quote failed for LEVERHEDGE"
-    },
-    {
-      "time": "2026-09-07T17:37:45.166923",
-      "message": "Jupiter quote failed for LEVERHEDGE"
-    },
-    {
       "time": "2026-09-07T20:46:48.328833",
       "message": "Jupiter quote failed for ZEC"
     },
@@ -87,7 +79,15 @@
     {
       "time": "2026-09-08T22:00:36.430356",
       "message": "Jupiter quote failed for TREE"
+    },
+    {
+      "time": "2026-09-09T00:06:43.442182",
+      "message": "Jupiter quote failed for KALSHI"
+    },
+    {
+      "time": "2026-09-09T00:06:43.750152",
+      "message": "Jupiter quote failed for KALSHI"
     }
   ],
-  "saved_at": "2026-09-08T22:00:39.058984"
+  "saved_at": "2026-09-09T00:06:57.426620"
 }
