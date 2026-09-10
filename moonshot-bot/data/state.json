@@ -9,30 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-09-09T21:48:12.486828",
-      "message": "Jupiter quote failed for wXRP"
-    },
-    {
-      "time": "2026-09-09T21:48:12.516759",
-      "message": "Jupiter quote failed for OTC"
-    },
-    {
-      "time": "2026-09-09T21:48:12.538737",
-      "message": "Jupiter quote failed for OTC"
-    },
-    {
-      "time": "2026-09-09T21:48:13.498899",
-      "message": "Jupiter quote failed for OTC"
-    },
-    {
-      "time": "2026-09-09T21:48:13.521655",
-      "message": "Jupiter quote failed for OTC"
-    },
-    {
-      "time": "2026-09-10T01:26:50.245131",
-      "message": "Jupiter quote failed for DELL"
-    },
-    {
       "time": "2026-09-10T16:11:55.751188",
       "message": "Jupiter quote failed for SPCX"
     },
@@ -87,7 +63,31 @@
     {
       "time": "2026-09-10T21:38:40.729056",
       "message": "Jupiter quote failed for SPYx"
+    },
+    {
+      "time": "2026-09-10T23:24:49.999261",
+      "message": "Jupiter quote failed for ZEC"
+    },
+    {
+      "time": "2026-09-10T23:24:50.017349",
+      "message": "Jupiter quote failed for ZEC"
+    },
+    {
+      "time": "2026-09-10T23:24:50.031126",
+      "message": "Jupiter quote failed for ZEC"
+    },
+    {
+      "time": "2026-09-10T23:24:51.010707",
+      "message": "Jupiter quote failed for ZEC"
+    },
+    {
+      "time": "2026-09-10T23:24:51.025803",
+      "message": "Jupiter quote failed for ZEC"
+    },
+    {
+      "time": "2026-09-10T23:24:55.635961",
+      "message": "Jupiter quote failed for SPYx"
     }
   ],
-  "saved_at": "2026-09-10T21:38:44.119876"
+  "saved_at": "2026-09-10T23:24:58.448146"
 }
