@@ -9,10 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-09-08T19:31:39.831693",
-      "message": "Jupiter quote failed for XMR"
-    },
-    {
       "time": "2026-09-08T19:31:39.860263",
       "message": "Jupiter quote failed for XMR"
     },
@@ -87,7 +83,11 @@
     {
       "time": "2026-09-09T21:48:13.521655",
       "message": "Jupiter quote failed for OTC"
+    },
+    {
+      "time": "2026-09-10T01:26:50.245131",
+      "message": "Jupiter quote failed for DELL"
     }
   ],
-  "saved_at": "2026-09-09T21:48:16.305362"
+  "saved_at": "2026-09-10T01:27:02.746799"
 }
