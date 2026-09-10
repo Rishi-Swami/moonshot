@@ -9,26 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-09-08T19:31:40.818388",
-      "message": "Jupiter quote failed for XMR"
-    },
-    {
-      "time": "2026-09-08T22:00:35.419160",
-      "message": "Jupiter quote failed for TREE"
-    },
-    {
-      "time": "2026-09-08T22:00:35.432132",
-      "message": "Jupiter quote failed for TREE"
-    },
-    {
-      "time": "2026-09-08T22:00:35.441505",
-      "message": "Jupiter quote failed for TREE"
-    },
-    {
-      "time": "2026-09-08T22:00:36.430356",
-      "message": "Jupiter quote failed for TREE"
-    },
-    {
       "time": "2026-09-09T00:06:43.442182",
       "message": "Jupiter quote failed for KALSHI"
     },
@@ -87,7 +67,27 @@
     {
       "time": "2026-09-10T16:11:55.751188",
       "message": "Jupiter quote failed for SPCX"
+    },
+    {
+      "time": "2026-09-10T19:08:37.448400",
+      "message": "Jupiter quote failed for ZEC"
+    },
+    {
+      "time": "2026-09-10T19:08:37.470785",
+      "message": "Jupiter quote failed for ZEC"
+    },
+    {
+      "time": "2026-09-10T19:08:37.491904",
+      "message": "Jupiter quote failed for ZEC"
+    },
+    {
+      "time": "2026-09-10T19:08:38.460057",
+      "message": "Jupiter quote failed for ZEC"
+    },
+    {
+      "time": "2026-09-10T19:08:38.479371",
+      "message": "Jupiter quote failed for ZEC"
     }
   ],
-  "saved_at": "2026-09-10T16:12:09.863438"
+  "saved_at": "2026-09-10T19:08:52.658954"
 }
