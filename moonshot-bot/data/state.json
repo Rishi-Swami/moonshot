@@ -9,10 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-09-10T21:38:30.810719",
-      "message": "Jupiter quote failed for ZEC"
-    },
-    {
       "time": "2026-09-10T21:38:30.829197",
       "message": "Jupiter quote failed for ZEC"
     },
@@ -87,7 +83,11 @@
     {
       "time": "2026-09-11T19:11:55.399496",
       "message": "Jupiter quote failed for xSOL"
+    },
+    {
+      "time": "2026-09-11T21:45:22.053872",
+      "message": "Jupiter quote failed for ZEC"
     }
   ],
-  "saved_at": "2026-09-11T19:11:58.147360"
+  "saved_at": "2026-09-11T21:45:28.661191"
 }
