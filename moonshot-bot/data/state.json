@@ -9,26 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-09-10T23:24:50.031126",
-      "message": "Jupiter quote failed for ZEC"
-    },
-    {
-      "time": "2026-09-10T23:24:51.010707",
-      "message": "Jupiter quote failed for ZEC"
-    },
-    {
-      "time": "2026-09-10T23:24:51.025803",
-      "message": "Jupiter quote failed for ZEC"
-    },
-    {
-      "time": "2026-09-10T23:24:55.635961",
-      "message": "Jupiter quote failed for SPYx"
-    },
-    {
-      "time": "2026-09-11T16:15:20.716216",
-      "message": "Jupiter quote failed for SPYx"
-    },
-    {
       "time": "2026-09-11T19:11:50.013240",
       "message": "Jupiter quote failed for NKE"
     },
@@ -87,7 +67,27 @@
     {
       "time": "2026-09-12T15:22:08.859766",
       "message": "Jupiter quote failed for GMEx"
+    },
+    {
+      "time": "2026-09-12T19:41:00.115865",
+      "message": "Jupiter quote failed for ZEC"
+    },
+    {
+      "time": "2026-09-12T19:41:00.134401",
+      "message": "Jupiter quote failed for ZEC"
+    },
+    {
+      "time": "2026-09-12T19:41:00.153835",
+      "message": "Jupiter quote failed for ZEC"
+    },
+    {
+      "time": "2026-09-12T19:41:01.127533",
+      "message": "Jupiter quote failed for ZEC"
+    },
+    {
+      "time": "2026-09-12T19:41:01.146756",
+      "message": "Jupiter quote failed for ZEC"
     }
   ],
-  "saved_at": "2026-09-12T17:47:07.077452"
+  "saved_at": "2026-09-12T19:41:15.294151"
 }
