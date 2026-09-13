@@ -9,22 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-09-11T19:11:55.351932",
-      "message": "Jupiter quote failed for NVDAx"
-    },
-    {
-      "time": "2026-09-11T19:11:55.399496",
-      "message": "Jupiter quote failed for xSOL"
-    },
-    {
-      "time": "2026-09-11T21:45:22.053872",
-      "message": "Jupiter quote failed for ZEC"
-    },
-    {
-      "time": "2026-09-11T23:34:00.077089",
-      "message": "Jupiter quote failed for ZEC"
-    },
-    {
       "time": "2026-09-12T01:31:57.123741",
       "message": "Jupiter quote failed for TSLAx"
     },
@@ -87,7 +71,23 @@
     {
       "time": "2026-09-13T21:08:43.111653",
       "message": "Jupiter quote failed for xSOL"
+    },
+    {
+      "time": "2026-09-13T23:10:51.222394",
+      "message": "Jupiter quote failed for BUTTHOLE"
+    },
+    {
+      "time": "2026-09-13T23:10:51.236761",
+      "message": "Jupiter quote failed for BUTTHOLE"
+    },
+    {
+      "time": "2026-09-13T23:10:51.251493",
+      "message": "Jupiter quote failed for BUTTHOLE"
+    },
+    {
+      "time": "2026-09-13T23:10:52.234397",
+      "message": "Jupiter quote failed for BUTTHOLE"
     }
   ],
-  "saved_at": "2026-09-13T21:08:57.586012"
+  "saved_at": "2026-09-13T23:10:54.831016"
 }
