@@ -9,10 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-09-11T19:11:55.327299",
-      "message": "Jupiter quote failed for HIMS"
-    },
-    {
       "time": "2026-09-11T19:11:55.351932",
       "message": "Jupiter quote failed for NVDAx"
     },
@@ -87,7 +83,11 @@
     {
       "time": "2026-09-13T18:44:42.029014",
       "message": "Jupiter quote failed for Budsw"
+    },
+    {
+      "time": "2026-09-13T21:08:43.111653",
+      "message": "Jupiter quote failed for xSOL"
     }
   ],
-  "saved_at": "2026-09-13T18:44:56.443795"
+  "saved_at": "2026-09-13T21:08:57.586012"
 }
