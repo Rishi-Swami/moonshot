@@ -9,30 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-09-12T01:31:57.123741",
-      "message": "Jupiter quote failed for TSLAx"
-    },
-    {
-      "time": "2026-09-12T15:21:56.523626",
-      "message": "Jupiter quote failed for SAUSHK"
-    },
-    {
-      "time": "2026-09-12T15:21:56.532700",
-      "message": "Jupiter quote failed for WBTC"
-    },
-    {
-      "time": "2026-09-12T15:21:56.541985",
-      "message": "Jupiter quote failed for WBTC"
-    },
-    {
-      "time": "2026-09-12T15:21:57.535102",
-      "message": "Jupiter quote failed for XMR"
-    },
-    {
-      "time": "2026-09-12T15:21:57.554361",
-      "message": "Jupiter quote failed for XMR"
-    },
-    {
       "time": "2026-09-12T15:22:08.859766",
       "message": "Jupiter quote failed for GMEx"
     },
@@ -87,7 +63,31 @@
     {
       "time": "2026-09-13T23:10:52.234397",
       "message": "Jupiter quote failed for BUTTHOLE"
+    },
+    {
+      "time": "2026-09-14T01:09:34.726568",
+      "message": "Jupiter quote failed for NKE"
+    },
+    {
+      "time": "2026-09-14T01:09:34.879314",
+      "message": "Jupiter quote failed for STONK"
+    },
+    {
+      "time": "2026-09-14T01:09:46.268274",
+      "message": "Jupiter quote failed for WBTC"
+    },
+    {
+      "time": "2026-09-14T01:09:46.290932",
+      "message": "Jupiter quote failed for WBTC"
+    },
+    {
+      "time": "2026-09-14T01:09:46.313081",
+      "message": "Jupiter quote failed for WBTC"
+    },
+    {
+      "time": "2026-09-14T01:09:47.281280",
+      "message": "Jupiter quote failed for WBTC"
     }
   ],
-  "saved_at": "2026-09-13T23:10:54.831016"
+  "saved_at": "2026-09-14T01:09:51.309444"
 }
