@@ -9,10 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-09-12T15:22:08.859766",
-      "message": "Jupiter quote failed for GMEx"
-    },
-    {
       "time": "2026-09-12T19:41:00.115865",
       "message": "Jupiter quote failed for ZEC"
     },
@@ -87,7 +83,11 @@
     {
       "time": "2026-09-14T01:09:47.281280",
       "message": "Jupiter quote failed for WBTC"
+    },
+    {
+      "time": "2026-09-14T17:58:31.734920",
+      "message": "Jupiter quote failed for ANSEM"
     }
   ],
-  "saved_at": "2026-09-14T01:09:51.309444"
+  "saved_at": "2026-09-14T17:58:47.960295"
 }
