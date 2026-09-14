@@ -9,14 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-09-12T19:41:00.115865",
-      "message": "Jupiter quote failed for ZEC"
-    },
-    {
-      "time": "2026-09-12T19:41:00.134401",
-      "message": "Jupiter quote failed for ZEC"
-    },
-    {
       "time": "2026-09-12T19:41:00.153835",
       "message": "Jupiter quote failed for ZEC"
     },
@@ -87,7 +79,15 @@
     {
       "time": "2026-09-14T17:58:31.734920",
       "message": "Jupiter quote failed for ANSEM"
+    },
+    {
+      "time": "2026-09-14T21:45:25.863617",
+      "message": "Jupiter quote failed for biketyson"
+    },
+    {
+      "time": "2026-09-14T21:45:25.916471",
+      "message": "Jupiter quote failed for ZEC"
     }
   ],
-  "saved_at": "2026-09-14T17:58:47.960295"
+  "saved_at": "2026-09-14T21:45:39.796339"
 }
