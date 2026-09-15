@@ -9,26 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-09-12T19:41:01.146756",
-      "message": "Jupiter quote failed for ZEC"
-    },
-    {
-      "time": "2026-09-13T18:44:42.008761",
-      "message": "Jupiter quote failed for Budsw"
-    },
-    {
-      "time": "2026-09-13T18:44:42.020020",
-      "message": "Jupiter quote failed for Budsw"
-    },
-    {
-      "time": "2026-09-13T18:44:42.029014",
-      "message": "Jupiter quote failed for Budsw"
-    },
-    {
-      "time": "2026-09-13T21:08:43.111653",
-      "message": "Jupiter quote failed for xSOL"
-    },
-    {
       "time": "2026-09-13T23:10:51.222394",
       "message": "Jupiter quote failed for BUTTHOLE"
     },
@@ -87,7 +67,27 @@
     {
       "time": "2026-09-15T16:42:41.288102",
       "message": "Jupiter quote failed for xSOL"
+    },
+    {
+      "time": "2026-09-15T19:51:31.346845",
+      "message": "Jupiter quote failed for STONK"
+    },
+    {
+      "time": "2026-09-15T19:51:31.359722",
+      "message": "Jupiter quote failed for STONK"
+    },
+    {
+      "time": "2026-09-15T19:51:31.372134",
+      "message": "Jupiter quote failed for STONK"
+    },
+    {
+      "time": "2026-09-15T19:51:32.358644",
+      "message": "Jupiter quote failed for STONK"
+    },
+    {
+      "time": "2026-09-15T19:51:32.372734",
+      "message": "Jupiter quote failed for STONK"
     }
   ],
-  "saved_at": "2026-09-15T16:42:56.814861"
+  "saved_at": "2026-09-15T19:51:35.054029"
 }
