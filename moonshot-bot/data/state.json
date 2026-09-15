@@ -9,10 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-09-12T19:41:00.153835",
-      "message": "Jupiter quote failed for ZEC"
-    },
-    {
       "time": "2026-09-12T19:41:01.127533",
       "message": "Jupiter quote failed for ZEC"
     },
@@ -87,7 +83,11 @@
     {
       "time": "2026-09-14T21:45:25.916471",
       "message": "Jupiter quote failed for ZEC"
+    },
+    {
+      "time": "2026-09-15T00:00:57.365166",
+      "message": "Jupiter quote failed for DNUT"
     }
   ],
-  "saved_at": "2026-09-14T21:45:39.796339"
+  "saved_at": "2026-09-15T00:01:04.711351"
 }
