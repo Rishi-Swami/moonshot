@@ -9,14 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-09-13T23:10:51.236761",
-      "message": "Jupiter quote failed for BUTTHOLE"
-    },
-    {
-      "time": "2026-09-13T23:10:51.251493",
-      "message": "Jupiter quote failed for BUTTHOLE"
-    },
-    {
       "time": "2026-09-13T23:10:52.234397",
       "message": "Jupiter quote failed for BUTTHOLE"
     },
@@ -87,7 +79,15 @@
     {
       "time": "2026-09-16T16:35:53.080142",
       "message": "Jupiter quote failed for HOODx"
+    },
+    {
+      "time": "2026-09-16T19:41:40.231583",
+      "message": "Jupiter quote failed for ZEC"
+    },
+    {
+      "time": "2026-09-16T19:41:40.247310",
+      "message": "Jupiter quote failed for ZEC"
     }
   ],
-  "saved_at": "2026-09-16T16:36:07.131577"
+  "saved_at": "2026-09-16T19:41:55.068749"
 }
