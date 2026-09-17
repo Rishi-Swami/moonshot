@@ -9,10 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-09-13T23:10:52.234397",
-      "message": "Jupiter quote failed for BUTTHOLE"
-    },
-    {
       "time": "2026-09-14T01:09:34.726568",
       "message": "Jupiter quote failed for NKE"
     },
@@ -87,7 +83,11 @@
     {
       "time": "2026-09-16T19:41:40.247310",
       "message": "Jupiter quote failed for ZEC"
+    },
+    {
+      "time": "2026-09-17T00:46:59.318511",
+      "message": "Jupiter quote failed for WBTC"
     }
   ],
-  "saved_at": "2026-09-16T22:23:27.827460"
+  "saved_at": "2026-09-17T00:47:02.181621"
 }
