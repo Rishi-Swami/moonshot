@@ -9,22 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-09-14T01:09:34.726568",
-      "message": "Jupiter quote failed for NKE"
-    },
-    {
-      "time": "2026-09-14T01:09:34.879314",
-      "message": "Jupiter quote failed for STONK"
-    },
-    {
-      "time": "2026-09-14T01:09:46.268274",
-      "message": "Jupiter quote failed for WBTC"
-    },
-    {
-      "time": "2026-09-14T01:09:46.290932",
-      "message": "Jupiter quote failed for WBTC"
-    },
-    {
       "time": "2026-09-14T01:09:46.313081",
       "message": "Jupiter quote failed for WBTC"
     },
@@ -87,7 +71,23 @@
     {
       "time": "2026-09-17T00:46:59.318511",
       "message": "Jupiter quote failed for WBTC"
+    },
+    {
+      "time": "2026-09-17T22:41:42.558530",
+      "message": "Jupiter quote failed for AAVE"
+    },
+    {
+      "time": "2026-09-17T22:41:42.568156",
+      "message": "Jupiter quote failed for AAVE"
+    },
+    {
+      "time": "2026-09-17T22:41:42.578348",
+      "message": "Jupiter quote failed for AAVE"
+    },
+    {
+      "time": "2026-09-17T22:41:43.570399",
+      "message": "Jupiter quote failed for AAVE"
     }
   ],
-  "saved_at": "2026-09-17T19:53:08.549384"
+  "saved_at": "2026-09-17T22:41:57.299350"
 }
