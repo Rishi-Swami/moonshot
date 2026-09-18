@@ -9,10 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-09-15T19:51:31.346845",
-      "message": "Jupiter quote failed for STONK"
-    },
-    {
       "time": "2026-09-15T19:51:31.359722",
       "message": "Jupiter quote failed for STONK"
     },
@@ -87,7 +83,11 @@
     {
       "time": "2026-09-18T21:37:58.961034",
       "message": "Jupiter quote failed for PEPE"
+    },
+    {
+      "time": "2026-09-18T23:34:55.528683",
+      "message": "Jupiter quote failed for MSFTx"
     }
   ],
-  "saved_at": "2026-09-18T21:38:13.203358"
+  "saved_at": "2026-09-18T23:35:10.019431"
 }
