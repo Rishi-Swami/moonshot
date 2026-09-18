@@ -9,30 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-09-14T01:09:46.313081",
-      "message": "Jupiter quote failed for WBTC"
-    },
-    {
-      "time": "2026-09-14T01:09:47.281280",
-      "message": "Jupiter quote failed for WBTC"
-    },
-    {
-      "time": "2026-09-14T17:58:31.734920",
-      "message": "Jupiter quote failed for ANSEM"
-    },
-    {
-      "time": "2026-09-14T21:45:25.863617",
-      "message": "Jupiter quote failed for biketyson"
-    },
-    {
-      "time": "2026-09-14T21:45:25.916471",
-      "message": "Jupiter quote failed for ZEC"
-    },
-    {
-      "time": "2026-09-15T00:00:57.365166",
-      "message": "Jupiter quote failed for DNUT"
-    },
-    {
       "time": "2026-09-15T16:42:41.288102",
       "message": "Jupiter quote failed for xSOL"
     },
@@ -87,7 +63,31 @@
     {
       "time": "2026-09-17T22:41:43.570399",
       "message": "Jupiter quote failed for AAVE"
+    },
+    {
+      "time": "2026-09-18T16:12:11.712043",
+      "message": "Jupiter quote failed for DMCROWN"
+    },
+    {
+      "time": "2026-09-18T16:12:18.091843",
+      "message": "Jupiter quote failed for WEN"
+    },
+    {
+      "time": "2026-09-18T16:12:18.132722",
+      "message": "Jupiter quote failed for ZEC"
+    },
+    {
+      "time": "2026-09-18T16:12:18.149516",
+      "message": "Jupiter quote failed for ZEC"
+    },
+    {
+      "time": "2026-09-18T16:12:19.103764",
+      "message": "Jupiter quote failed for WEN"
+    },
+    {
+      "time": "2026-09-18T16:12:19.143526",
+      "message": "Jupiter quote failed for WEN"
     }
   ],
-  "saved_at": "2026-09-18T00:48:45.308968"
+  "saved_at": "2026-09-18T16:12:22.079639"
 }
