@@ -9,14 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-09-16T19:41:40.231583",
-      "message": "Jupiter quote failed for ZEC"
-    },
-    {
-      "time": "2026-09-16T19:41:40.247310",
-      "message": "Jupiter quote failed for ZEC"
-    },
-    {
       "time": "2026-09-17T00:46:59.318511",
       "message": "Jupiter quote failed for WBTC"
     },
@@ -87,7 +79,15 @@
     {
       "time": "2026-09-19T15:43:44.385086",
       "message": "Jupiter quote failed for NVDAx"
+    },
+    {
+      "time": "2026-09-19T18:13:17.236053",
+      "message": "Jupiter quote failed for Btcwhal"
+    },
+    {
+      "time": "2026-09-19T18:13:29.679646",
+      "message": "Jupiter quote failed for GLDx"
     }
   ],
-  "saved_at": "2026-09-19T15:43:47.479699"
+  "saved_at": "2026-09-19T18:13:32.459072"
 }
