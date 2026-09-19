@@ -9,14 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-09-17T00:46:59.318511",
-      "message": "Jupiter quote failed for WBTC"
-    },
-    {
-      "time": "2026-09-17T22:41:42.558530",
-      "message": "Jupiter quote failed for AAVE"
-    },
-    {
       "time": "2026-09-17T22:41:42.568156",
       "message": "Jupiter quote failed for AAVE"
     },
@@ -87,7 +79,15 @@
     {
       "time": "2026-09-19T18:13:29.679646",
       "message": "Jupiter quote failed for GLDx"
+    },
+    {
+      "time": "2026-09-19T20:48:42.767177",
+      "message": "Jupiter quote failed for WHRAD"
+    },
+    {
+      "time": "2026-09-19T20:48:54.572761",
+      "message": "Jupiter quote failed for GMEx"
     }
   ],
-  "saved_at": "2026-09-19T18:13:32.459072"
+  "saved_at": "2026-09-19T20:48:57.282550"
 }
