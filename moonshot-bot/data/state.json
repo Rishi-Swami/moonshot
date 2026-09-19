@@ -9,10 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-09-17T22:41:42.568156",
-      "message": "Jupiter quote failed for AAVE"
-    },
-    {
       "time": "2026-09-17T22:41:42.578348",
       "message": "Jupiter quote failed for AAVE"
     },
@@ -87,7 +83,11 @@
     {
       "time": "2026-09-19T20:48:54.572761",
       "message": "Jupiter quote failed for GMEx"
+    },
+    {
+      "time": "2026-09-19T22:33:18.706681",
+      "message": "Jupiter quote failed for PEPE"
     }
   ],
-  "saved_at": "2026-09-19T20:48:57.282550"
+  "saved_at": "2026-09-19T22:33:21.376607"
 }
