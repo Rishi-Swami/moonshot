@@ -9,18 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-09-15T19:51:31.359722",
-      "message": "Jupiter quote failed for STONK"
-    },
-    {
-      "time": "2026-09-15T19:51:31.372134",
-      "message": "Jupiter quote failed for STONK"
-    },
-    {
-      "time": "2026-09-15T19:51:32.358644",
-      "message": "Jupiter quote failed for STONK"
-    },
-    {
       "time": "2026-09-15T19:51:32.372734",
       "message": "Jupiter quote failed for STONK"
     },
@@ -87,7 +75,19 @@
     {
       "time": "2026-09-18T23:34:55.528683",
       "message": "Jupiter quote failed for MSFTx"
+    },
+    {
+      "time": "2026-09-19T01:34:48.364000",
+      "message": "Jupiter quote failed for Pegpar"
+    },
+    {
+      "time": "2026-09-19T01:34:48.374420",
+      "message": "Jupiter quote failed for Pegpar"
+    },
+    {
+      "time": "2026-09-19T01:34:48.384013",
+      "message": "Jupiter quote failed for Pegpar"
     }
   ],
-  "saved_at": "2026-09-18T23:35:10.019431"
+  "saved_at": "2026-09-19T01:35:03.310954"
 }
