@@ -9,14 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-09-19T22:33:18.706681",
-      "message": "Jupiter quote failed for PEPE"
-    },
-    {
-      "time": "2026-09-20T00:22:19.554235",
-      "message": "Jupiter quote failed for DOGE"
-    },
-    {
       "time": "2026-09-20T00:22:19.564264",
       "message": "Jupiter quote failed for DOGE"
     },
@@ -87,7 +79,15 @@
     {
       "time": "2026-09-20T21:00:15.305276",
       "message": "Jupiter quote failed for XMR"
+    },
+    {
+      "time": "2026-09-20T23:10:36.717185",
+      "message": "Jupiter quote failed for WCBOON"
+    },
+    {
+      "time": "2026-09-20T23:10:36.743436",
+      "message": "Jupiter quote failed for WCBOON"
     }
   ],
-  "saved_at": "2026-09-20T21:00:18.013671"
+  "saved_at": "2026-09-20T23:10:51.449469"
 }
