@@ -9,26 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-09-17T22:41:42.578348",
-      "message": "Jupiter quote failed for AAVE"
-    },
-    {
-      "time": "2026-09-17T22:41:43.570399",
-      "message": "Jupiter quote failed for AAVE"
-    },
-    {
-      "time": "2026-09-18T16:12:11.712043",
-      "message": "Jupiter quote failed for DMCROWN"
-    },
-    {
-      "time": "2026-09-18T16:12:18.091843",
-      "message": "Jupiter quote failed for WEN"
-    },
-    {
-      "time": "2026-09-18T16:12:18.132722",
-      "message": "Jupiter quote failed for ZEC"
-    },
-    {
       "time": "2026-09-18T16:12:18.149516",
       "message": "Jupiter quote failed for ZEC"
     },
@@ -87,7 +67,27 @@
     {
       "time": "2026-09-19T22:33:18.706681",
       "message": "Jupiter quote failed for PEPE"
+    },
+    {
+      "time": "2026-09-20T00:22:19.554235",
+      "message": "Jupiter quote failed for DOGE"
+    },
+    {
+      "time": "2026-09-20T00:22:19.564264",
+      "message": "Jupiter quote failed for DOGE"
+    },
+    {
+      "time": "2026-09-20T00:22:19.573607",
+      "message": "Jupiter quote failed for DOGE"
+    },
+    {
+      "time": "2026-09-20T00:22:20.566155",
+      "message": "Jupiter quote failed for DOGE"
+    },
+    {
+      "time": "2026-09-20T00:22:20.578258",
+      "message": "Jupiter quote failed for DOGE"
     }
   ],
-  "saved_at": "2026-09-19T22:33:21.376607"
+  "saved_at": "2026-09-20T00:22:23.174168"
 }
