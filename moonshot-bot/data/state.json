@@ -9,22 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-09-18T16:12:18.149516",
-      "message": "Jupiter quote failed for ZEC"
-    },
-    {
-      "time": "2026-09-18T16:12:19.103764",
-      "message": "Jupiter quote failed for WEN"
-    },
-    {
-      "time": "2026-09-18T16:12:19.143526",
-      "message": "Jupiter quote failed for WEN"
-    },
-    {
-      "time": "2026-09-18T21:37:58.961034",
-      "message": "Jupiter quote failed for PEPE"
-    },
-    {
       "time": "2026-09-18T23:34:55.528683",
       "message": "Jupiter quote failed for MSFTx"
     },
@@ -87,7 +71,23 @@
     {
       "time": "2026-09-20T00:22:20.578258",
       "message": "Jupiter quote failed for DOGE"
+    },
+    {
+      "time": "2026-09-20T15:50:29.985641",
+      "message": "Jupiter quote failed for Pepe"
+    },
+    {
+      "time": "2026-09-20T15:50:29.997461",
+      "message": "Jupiter quote failed for Pepe"
+    },
+    {
+      "time": "2026-09-20T15:50:30.007883",
+      "message": "Jupiter quote failed for DKNG"
+    },
+    {
+      "time": "2026-09-20T15:50:30.997309",
+      "message": "Jupiter quote failed for DKNG"
     }
   ],
-  "saved_at": "2026-09-20T00:22:23.174168"
+  "saved_at": "2026-09-20T15:50:33.562842"
 }
