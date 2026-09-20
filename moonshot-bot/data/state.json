@@ -9,26 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-09-18T23:34:55.528683",
-      "message": "Jupiter quote failed for MSFTx"
-    },
-    {
-      "time": "2026-09-19T01:34:48.364000",
-      "message": "Jupiter quote failed for Pegpar"
-    },
-    {
-      "time": "2026-09-19T01:34:48.374420",
-      "message": "Jupiter quote failed for Pegpar"
-    },
-    {
-      "time": "2026-09-19T01:34:48.384013",
-      "message": "Jupiter quote failed for Pegpar"
-    },
-    {
-      "time": "2026-09-19T15:43:44.353073",
-      "message": "Jupiter quote failed for NVDAx"
-    },
-    {
       "time": "2026-09-19T15:43:44.385086",
       "message": "Jupiter quote failed for NVDAx"
     },
@@ -87,7 +67,27 @@
     {
       "time": "2026-09-20T15:50:30.997309",
       "message": "Jupiter quote failed for DKNG"
+    },
+    {
+      "time": "2026-09-20T18:25:15.083077",
+      "message": "Jupiter quote failed for ZEC"
+    },
+    {
+      "time": "2026-09-20T18:25:15.099717",
+      "message": "Jupiter quote failed for ZEC"
+    },
+    {
+      "time": "2026-09-20T18:25:15.116305",
+      "message": "Jupiter quote failed for ZEC"
+    },
+    {
+      "time": "2026-09-20T18:25:16.095994",
+      "message": "Jupiter quote failed for ZEC"
+    },
+    {
+      "time": "2026-09-20T18:25:16.112068",
+      "message": "Jupiter quote failed for ZEC"
     }
   ],
-  "saved_at": "2026-09-20T15:50:33.562842"
+  "saved_at": "2026-09-20T18:25:18.831151"
 }
