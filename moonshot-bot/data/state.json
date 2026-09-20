@@ -9,26 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-09-19T15:43:44.385086",
-      "message": "Jupiter quote failed for NVDAx"
-    },
-    {
-      "time": "2026-09-19T18:13:17.236053",
-      "message": "Jupiter quote failed for Btcwhal"
-    },
-    {
-      "time": "2026-09-19T18:13:29.679646",
-      "message": "Jupiter quote failed for GLDx"
-    },
-    {
-      "time": "2026-09-19T20:48:42.767177",
-      "message": "Jupiter quote failed for WHRAD"
-    },
-    {
-      "time": "2026-09-19T20:48:54.572761",
-      "message": "Jupiter quote failed for GMEx"
-    },
-    {
       "time": "2026-09-19T22:33:18.706681",
       "message": "Jupiter quote failed for PEPE"
     },
@@ -87,7 +67,27 @@
     {
       "time": "2026-09-20T18:25:16.112068",
       "message": "Jupiter quote failed for ZEC"
+    },
+    {
+      "time": "2026-09-20T21:00:02.711030",
+      "message": "Jupiter quote failed for SPCXx"
+    },
+    {
+      "time": "2026-09-20T21:00:14.293690",
+      "message": "Jupiter quote failed for XMR"
+    },
+    {
+      "time": "2026-09-20T21:00:14.304133",
+      "message": "Jupiter quote failed for XMR"
+    },
+    {
+      "time": "2026-09-20T21:00:14.313657",
+      "message": "Jupiter quote failed for XMR"
+    },
+    {
+      "time": "2026-09-20T21:00:15.305276",
+      "message": "Jupiter quote failed for XMR"
     }
   ],
-  "saved_at": "2026-09-20T18:25:18.831151"
+  "saved_at": "2026-09-20T21:00:18.013671"
 }
