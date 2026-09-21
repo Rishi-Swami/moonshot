@@ -9,34 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-09-20T00:22:19.564264",
-      "message": "Jupiter quote failed for DOGE"
-    },
-    {
-      "time": "2026-09-20T00:22:19.573607",
-      "message": "Jupiter quote failed for DOGE"
-    },
-    {
-      "time": "2026-09-20T00:22:20.566155",
-      "message": "Jupiter quote failed for DOGE"
-    },
-    {
-      "time": "2026-09-20T00:22:20.578258",
-      "message": "Jupiter quote failed for DOGE"
-    },
-    {
-      "time": "2026-09-20T15:50:29.985641",
-      "message": "Jupiter quote failed for Pepe"
-    },
-    {
-      "time": "2026-09-20T15:50:29.997461",
-      "message": "Jupiter quote failed for Pepe"
-    },
-    {
-      "time": "2026-09-20T15:50:30.007883",
-      "message": "Jupiter quote failed for DKNG"
-    },
-    {
       "time": "2026-09-20T15:50:30.997309",
       "message": "Jupiter quote failed for DKNG"
     },
@@ -87,7 +59,35 @@
     {
       "time": "2026-09-20T23:10:36.743436",
       "message": "Jupiter quote failed for WCBOON"
+    },
+    {
+      "time": "2026-09-21T01:09:28.784353",
+      "message": "Jupiter quote failed for AVAX"
+    },
+    {
+      "time": "2026-09-21T01:09:28.794490",
+      "message": "Jupiter quote failed for AVAX"
+    },
+    {
+      "time": "2026-09-21T01:09:28.811674",
+      "message": "Jupiter quote failed for AVAX"
+    },
+    {
+      "time": "2026-09-21T01:09:29.796070",
+      "message": "Jupiter quote failed for TRCH1"
+    },
+    {
+      "time": "2026-09-21T01:09:29.805960",
+      "message": "Jupiter quote failed for TRCH1"
+    },
+    {
+      "time": "2026-09-21T01:09:41.010085",
+      "message": "Jupiter quote failed for AVAX"
+    },
+    {
+      "time": "2026-09-21T01:09:41.019956",
+      "message": "Jupiter quote failed for AVAX"
     }
   ],
-  "saved_at": "2026-09-20T23:10:51.449469"
+  "saved_at": "2026-09-21T01:09:43.744232"
 }
