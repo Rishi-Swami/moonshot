@@ -9,38 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-09-20T18:25:16.095994",
-      "message": "Jupiter quote failed for ZEC"
-    },
-    {
-      "time": "2026-09-20T18:25:16.112068",
-      "message": "Jupiter quote failed for ZEC"
-    },
-    {
-      "time": "2026-09-20T21:00:02.711030",
-      "message": "Jupiter quote failed for SPCXx"
-    },
-    {
-      "time": "2026-09-20T21:00:14.293690",
-      "message": "Jupiter quote failed for XMR"
-    },
-    {
-      "time": "2026-09-20T21:00:14.304133",
-      "message": "Jupiter quote failed for XMR"
-    },
-    {
-      "time": "2026-09-20T21:00:14.313657",
-      "message": "Jupiter quote failed for XMR"
-    },
-    {
-      "time": "2026-09-20T21:00:15.305276",
-      "message": "Jupiter quote failed for XMR"
-    },
-    {
-      "time": "2026-09-20T23:10:36.717185",
-      "message": "Jupiter quote failed for WCBOON"
-    },
-    {
       "time": "2026-09-20T23:10:36.743436",
       "message": "Jupiter quote failed for WCBOON"
     },
@@ -87,7 +55,39 @@
     {
       "time": "2026-09-21T18:06:32.848881",
       "message": "Jupiter quote failed for TRCH1"
+    },
+    {
+      "time": "2026-09-21T21:57:42.906149",
+      "message": "Jupiter quote failed for AVAX"
+    },
+    {
+      "time": "2026-09-21T21:57:42.933262",
+      "message": "Jupiter quote failed for AVAX"
+    },
+    {
+      "time": "2026-09-21T21:57:42.950756",
+      "message": "Jupiter quote failed for AVAX"
+    },
+    {
+      "time": "2026-09-21T21:57:43.917715",
+      "message": "Jupiter quote failed for TRCH1"
+    },
+    {
+      "time": "2026-09-21T21:57:48.464145",
+      "message": "Jupiter quote failed for SPCXx"
+    },
+    {
+      "time": "2026-09-21T21:57:48.483661",
+      "message": "Jupiter quote failed for SPCXx"
+    },
+    {
+      "time": "2026-09-21T21:57:48.503664",
+      "message": "Jupiter quote failed for SPCXx"
+    },
+    {
+      "time": "2026-09-21T21:57:49.477170",
+      "message": "Jupiter quote failed for SPCXx"
     }
   ],
-  "saved_at": "2026-09-21T18:06:46.524610"
+  "saved_at": "2026-09-21T21:57:53.971637"
 }
