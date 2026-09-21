@@ -9,22 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-09-20T15:50:30.997309",
-      "message": "Jupiter quote failed for DKNG"
-    },
-    {
-      "time": "2026-09-20T18:25:15.083077",
-      "message": "Jupiter quote failed for ZEC"
-    },
-    {
-      "time": "2026-09-20T18:25:15.099717",
-      "message": "Jupiter quote failed for ZEC"
-    },
-    {
-      "time": "2026-09-20T18:25:15.116305",
-      "message": "Jupiter quote failed for ZEC"
-    },
-    {
       "time": "2026-09-20T18:25:16.095994",
       "message": "Jupiter quote failed for ZEC"
     },
@@ -87,7 +71,23 @@
     {
       "time": "2026-09-21T01:09:41.019956",
       "message": "Jupiter quote failed for AVAX"
+    },
+    {
+      "time": "2026-09-21T18:06:31.837623",
+      "message": "Jupiter quote failed for AVAX"
+    },
+    {
+      "time": "2026-09-21T18:06:31.857314",
+      "message": "Jupiter quote failed for AVAX"
+    },
+    {
+      "time": "2026-09-21T18:06:31.874860",
+      "message": "Jupiter quote failed for AVAX"
+    },
+    {
+      "time": "2026-09-21T18:06:32.848881",
+      "message": "Jupiter quote failed for TRCH1"
     }
   ],
-  "saved_at": "2026-09-21T01:09:43.744232"
+  "saved_at": "2026-09-21T18:06:46.524610"
 }
