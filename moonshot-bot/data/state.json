@@ -9,22 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-09-22T19:54:26.319627",
-      "message": "Jupiter quote failed for AVAX"
-    },
-    {
-      "time": "2026-09-22T19:54:26.370383",
-      "message": "Jupiter quote failed for AVAX"
-    },
-    {
-      "time": "2026-09-22T19:54:26.417373",
-      "message": "Jupiter quote failed for AVAX"
-    },
-    {
-      "time": "2026-09-22T19:54:27.331591",
-      "message": "Jupiter quote failed for TRCH1"
-    },
-    {
       "time": "2026-09-22T22:48:36.460366",
       "message": "Jupiter quote failed for AVAX"
     },
@@ -87,7 +71,23 @@
     {
       "time": "2026-09-23T19:48:40.748938",
       "message": "Jupiter quote failed for TRCH1"
+    },
+    {
+      "time": "2026-09-23T22:31:12.558032",
+      "message": "Jupiter quote failed for AVAX"
+    },
+    {
+      "time": "2026-09-23T22:31:12.578772",
+      "message": "Jupiter quote failed for AVAX"
+    },
+    {
+      "time": "2026-09-23T22:31:12.597797",
+      "message": "Jupiter quote failed for AVAX"
+    },
+    {
+      "time": "2026-09-23T22:31:13.569637",
+      "message": "Jupiter quote failed for TRCH1"
     }
   ],
-  "saved_at": "2026-09-23T19:48:54.626831"
+  "saved_at": "2026-09-23T22:31:26.958410"
 }
