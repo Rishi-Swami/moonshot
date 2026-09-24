@@ -9,30 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-09-23T00:59:56.896721",
-      "message": "Jupiter quote failed for TRCH1"
-    },
-    {
-      "time": "2026-09-23T16:36:19.666191",
-      "message": "Jupiter quote failed for AVAX"
-    },
-    {
-      "time": "2026-09-23T16:36:19.689329",
-      "message": "Jupiter quote failed for AVAX"
-    },
-    {
-      "time": "2026-09-23T16:36:19.722887",
-      "message": "Jupiter quote failed for AVAX"
-    },
-    {
-      "time": "2026-09-23T16:36:20.677912",
-      "message": "Jupiter quote failed for TRCH1"
-    },
-    {
-      "time": "2026-09-23T19:48:39.737500",
-      "message": "Jupiter quote failed for AVAX"
-    },
-    {
       "time": "2026-09-23T19:48:39.756813",
       "message": "Jupiter quote failed for AVAX"
     },
@@ -87,7 +63,31 @@
     {
       "time": "2026-09-24T16:55:38.456668",
       "message": "Jupiter quote failed for WBNB"
+    },
+    {
+      "time": "2026-09-24T20:20:22.601048",
+      "message": "Jupiter quote failed for ZEC"
+    },
+    {
+      "time": "2026-09-24T20:20:26.166258",
+      "message": "Jupiter quote failed for METAx"
+    },
+    {
+      "time": "2026-09-24T20:20:26.188526",
+      "message": "Jupiter quote failed for METAx"
+    },
+    {
+      "time": "2026-09-24T20:20:26.215258",
+      "message": "Jupiter quote failed for METAx"
+    },
+    {
+      "time": "2026-09-24T20:20:27.178455",
+      "message": "Jupiter quote failed for METAx"
+    },
+    {
+      "time": "2026-09-24T20:20:27.205554",
+      "message": "Jupiter quote failed for METAx"
     }
   ],
-  "saved_at": "2026-09-24T16:55:41.350586"
+  "saved_at": "2026-09-24T20:20:30.271607"
 }
