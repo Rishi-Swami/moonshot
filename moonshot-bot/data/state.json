@@ -9,26 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-09-23T22:31:12.558032",
-      "message": "Jupiter quote failed for AVAX"
-    },
-    {
-      "time": "2026-09-23T22:31:12.578772",
-      "message": "Jupiter quote failed for AVAX"
-    },
-    {
-      "time": "2026-09-23T22:31:12.597797",
-      "message": "Jupiter quote failed for AVAX"
-    },
-    {
-      "time": "2026-09-23T22:31:13.569637",
-      "message": "Jupiter quote failed for TRCH1"
-    },
-    {
-      "time": "2026-09-24T00:51:05.271760",
-      "message": "Jupiter quote failed for AVAX"
-    },
-    {
       "time": "2026-09-24T00:51:05.283164",
       "message": "Jupiter quote failed for AVAX"
     },
@@ -87,7 +67,27 @@
     {
       "time": "2026-09-25T20:22:45.385332",
       "message": "Jupiter quote failed for neet"
+    },
+    {
+      "time": "2026-09-25T23:24:09.546383",
+      "message": "Jupiter quote failed for Riftrad"
+    },
+    {
+      "time": "2026-09-25T23:24:09.564130",
+      "message": "Jupiter quote failed for Riftrad"
+    },
+    {
+      "time": "2026-09-25T23:24:09.585298",
+      "message": "Jupiter quote failed for Riftrad"
+    },
+    {
+      "time": "2026-09-25T23:24:16.849729",
+      "message": "Jupiter quote failed for ZEC"
+    },
+    {
+      "time": "2026-09-25T23:24:16.873871",
+      "message": "Jupiter quote failed for ZEC"
     }
   ],
-  "saved_at": "2026-09-25T20:23:00.378193"
+  "saved_at": "2026-09-25T23:24:19.668210"
 }
