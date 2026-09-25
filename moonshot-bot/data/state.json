@@ -9,10 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-09-23T19:48:39.756813",
-      "message": "Jupiter quote failed for AVAX"
-    },
-    {
       "time": "2026-09-23T19:48:39.773830",
       "message": "Jupiter quote failed for AVAX"
     },
@@ -87,7 +83,11 @@
     {
       "time": "2026-09-24T20:20:27.205554",
       "message": "Jupiter quote failed for METAx"
+    },
+    {
+      "time": "2026-09-25T01:38:01.574412",
+      "message": "Jupiter quote failed for JOAOPORT"
     }
   ],
-  "saved_at": "2026-09-24T23:16:56.884568"
+  "saved_at": "2026-09-25T01:38:15.835254"
 }
