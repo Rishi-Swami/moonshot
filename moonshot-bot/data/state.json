@@ -9,14 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-09-23T19:48:39.773830",
-      "message": "Jupiter quote failed for AVAX"
-    },
-    {
-      "time": "2026-09-23T19:48:40.748938",
-      "message": "Jupiter quote failed for TRCH1"
-    },
-    {
       "time": "2026-09-23T22:31:12.558032",
       "message": "Jupiter quote failed for AVAX"
     },
@@ -87,7 +79,15 @@
     {
       "time": "2026-09-25T01:38:01.574412",
       "message": "Jupiter quote failed for JOAOPORT"
+    },
+    {
+      "time": "2026-09-25T20:22:45.339644",
+      "message": "Jupiter quote failed for neet"
+    },
+    {
+      "time": "2026-09-25T20:22:45.385332",
+      "message": "Jupiter quote failed for neet"
     }
   ],
-  "saved_at": "2026-09-25T16:58:13.832152"
+  "saved_at": "2026-09-25T20:23:00.378193"
 }
