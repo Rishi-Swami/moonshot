@@ -9,26 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-09-24T16:55:38.436344",
-      "message": "Jupiter quote failed for WBNB"
-    },
-    {
-      "time": "2026-09-24T16:55:38.456668",
-      "message": "Jupiter quote failed for WBNB"
-    },
-    {
-      "time": "2026-09-24T20:20:22.601048",
-      "message": "Jupiter quote failed for ZEC"
-    },
-    {
-      "time": "2026-09-24T20:20:26.166258",
-      "message": "Jupiter quote failed for METAx"
-    },
-    {
-      "time": "2026-09-24T20:20:26.188526",
-      "message": "Jupiter quote failed for METAx"
-    },
-    {
       "time": "2026-09-24T20:20:26.215258",
       "message": "Jupiter quote failed for METAx"
     },
@@ -87,7 +67,27 @@
     {
       "time": "2026-09-27T16:46:24.578847",
       "message": "Jupiter quote failed for WORLD"
+    },
+    {
+      "time": "2026-09-27T19:53:25.973430",
+      "message": "Jupiter quote failed for Phybud"
+    },
+    {
+      "time": "2026-09-27T19:53:25.994532",
+      "message": "Jupiter quote failed for Phybud"
+    },
+    {
+      "time": "2026-09-27T19:53:37.902429",
+      "message": "Jupiter quote failed for STONK"
+    },
+    {
+      "time": "2026-09-27T19:53:37.920430",
+      "message": "Jupiter quote failed for STONK"
+    },
+    {
+      "time": "2026-09-27T19:53:37.937883",
+      "message": "Jupiter quote failed for STONK"
     }
   ],
-  "saved_at": "2026-09-27T16:46:27.332576"
+  "saved_at": "2026-09-27T19:53:40.692565"
 }
