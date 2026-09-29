@@ -9,14 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-09-25T20:22:45.339644",
-      "message": "Jupiter quote failed for neet"
-    },
-    {
-      "time": "2026-09-25T20:22:45.385332",
-      "message": "Jupiter quote failed for neet"
-    },
-    {
       "time": "2026-09-25T23:24:09.546383",
       "message": "Jupiter quote failed for Riftrad"
     },
@@ -87,7 +79,15 @@
     {
       "time": "2026-09-28T23:54:19.480288",
       "message": "Jupiter quote failed for ANTHROPIC"
+    },
+    {
+      "time": "2026-09-29T22:09:37.176519",
+      "message": "Jupiter quote failed for Jcghost"
+    },
+    {
+      "time": "2026-09-29T22:09:48.658890",
+      "message": "Jupiter quote failed for SI"
     }
   ],
-  "saved_at": "2026-09-29T17:57:46.354182"
+  "saved_at": "2026-09-29T22:09:51.299382"
 }
