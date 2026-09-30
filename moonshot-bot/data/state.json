@@ -9,10 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-09-25T23:24:09.564130",
-      "message": "Jupiter quote failed for Riftrad"
-    },
-    {
       "time": "2026-09-25T23:24:09.585298",
       "message": "Jupiter quote failed for Riftrad"
     },
@@ -87,7 +83,11 @@
     {
       "time": "2026-09-30T01:19:03.904319",
       "message": "Jupiter quote failed for xSOL"
+    },
+    {
+      "time": "2026-09-30T21:55:02.121375",
+      "message": "Jupiter quote failed for NVDAx"
     }
   ],
-  "saved_at": "2026-09-30T17:53:17.361950"
+  "saved_at": "2026-09-30T21:55:16.461325"
 }
