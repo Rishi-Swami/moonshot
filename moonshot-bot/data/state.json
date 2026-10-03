@@ -9,10 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-09-25T23:24:16.873871",
-      "message": "Jupiter quote failed for ZEC"
-    },
-    {
       "time": "2026-09-26T19:14:00.880892",
       "message": "Jupiter quote failed for cbLTC"
     },
@@ -87,7 +83,11 @@
     {
       "time": "2026-10-01T18:18:22.294495",
       "message": "Jupiter quote failed for SPCXx"
+    },
+    {
+      "time": "2026-10-03T00:41:18.822380",
+      "message": "Jupiter quote failed for DOGE"
     }
   ],
-  "saved_at": "2026-10-02T21:27:17.344423"
+  "saved_at": "2026-10-03T00:41:21.695165"
 }
