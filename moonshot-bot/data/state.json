@@ -9,18 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-09-27T16:46:24.578847",
-      "message": "Jupiter quote failed for WORLD"
-    },
-    {
-      "time": "2026-09-27T19:53:25.973430",
-      "message": "Jupiter quote failed for Phybud"
-    },
-    {
-      "time": "2026-09-27T19:53:25.994532",
-      "message": "Jupiter quote failed for Phybud"
-    },
-    {
       "time": "2026-09-27T19:53:37.902429",
       "message": "Jupiter quote failed for STONK"
     },
@@ -87,7 +75,19 @@
     {
       "time": "2026-10-03T22:09:38.307319",
       "message": "Jupiter quote failed for SPCXx"
+    },
+    {
+      "time": "2026-10-04T19:49:03.848945",
+      "message": "Jupiter quote failed for Agency"
+    },
+    {
+      "time": "2026-10-04T19:49:03.864216",
+      "message": "Jupiter quote failed for Agency"
+    },
+    {
+      "time": "2026-10-04T19:49:04.403145",
+      "message": "Jupiter quote failed for NVDAx"
     }
   ],
-  "saved_at": "2026-10-04T16:43:08.030137"
+  "saved_at": "2026-10-04T19:49:18.139615"
 }
