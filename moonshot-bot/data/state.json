@@ -9,34 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-09-27T19:53:37.902429",
-      "message": "Jupiter quote failed for STONK"
-    },
-    {
-      "time": "2026-09-27T19:53:37.920430",
-      "message": "Jupiter quote failed for STONK"
-    },
-    {
-      "time": "2026-09-27T19:53:37.937883",
-      "message": "Jupiter quote failed for STONK"
-    },
-    {
-      "time": "2026-09-28T01:21:09.528204",
-      "message": "Jupiter quote failed for SPCXx"
-    },
-    {
-      "time": "2026-09-28T19:30:45.064053",
-      "message": "Jupiter quote failed for SPCXx"
-    },
-    {
-      "time": "2026-09-28T19:30:45.074766",
-      "message": "Jupiter quote failed for SPCXx"
-    },
-    {
-      "time": "2026-09-28T23:54:19.480288",
-      "message": "Jupiter quote failed for ANTHROPIC"
-    },
-    {
       "time": "2026-09-29T22:09:37.176519",
       "message": "Jupiter quote failed for Jcghost"
     },
@@ -87,7 +59,35 @@
     {
       "time": "2026-10-04T19:49:04.403145",
       "message": "Jupiter quote failed for NVDAx"
+    },
+    {
+      "time": "2026-10-06T22:40:30.357397",
+      "message": "Jupiter quote failed for Hacksiren"
+    },
+    {
+      "time": "2026-10-06T22:40:30.378874",
+      "message": "Jupiter quote failed for Hacksiren"
+    },
+    {
+      "time": "2026-10-06T22:40:36.461387",
+      "message": "Jupiter quote failed for GODS"
+    },
+    {
+      "time": "2026-10-06T22:40:36.488938",
+      "message": "Jupiter quote failed for GODS"
+    },
+    {
+      "time": "2026-10-06T22:40:36.516112",
+      "message": "Jupiter quote failed for GODS"
+    },
+    {
+      "time": "2026-10-06T22:40:37.472752",
+      "message": "Jupiter quote failed for GODS"
+    },
+    {
+      "time": "2026-10-06T22:40:37.499830",
+      "message": "Jupiter quote failed for GODS"
     }
   ],
-  "saved_at": "2026-10-06T18:11:36.621102"
+  "saved_at": "2026-10-06T22:40:40.323313"
 }
