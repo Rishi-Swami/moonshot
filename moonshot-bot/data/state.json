@@ -9,10 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-09-29T22:09:48.658890",
-      "message": "Jupiter quote failed for SI"
-    },
-    {
       "time": "2026-09-30T01:19:03.904319",
       "message": "Jupiter quote failed for xSOL"
     },
@@ -87,7 +83,11 @@
     {
       "time": "2026-10-07T01:49:54.516125",
       "message": "Jupiter quote failed for DRGNSPL"
+    },
+    {
+      "time": "2026-10-07T18:44:44.211693",
+      "message": "Jupiter quote failed for swordinu"
     }
   ],
-  "saved_at": "2026-10-07T01:50:08.857310"
+  "saved_at": "2026-10-07T18:45:00.216169"
 }
