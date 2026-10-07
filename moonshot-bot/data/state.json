@@ -9,22 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-09-30T01:19:03.904319",
-      "message": "Jupiter quote failed for xSOL"
-    },
-    {
-      "time": "2026-09-30T21:55:02.121375",
-      "message": "Jupiter quote failed for NVDAx"
-    },
-    {
-      "time": "2026-10-01T01:09:46.810977",
-      "message": "Jupiter quote failed for TSLAx"
-    },
-    {
-      "time": "2026-10-01T18:18:22.294495",
-      "message": "Jupiter quote failed for SPCXx"
-    },
-    {
       "time": "2026-10-03T00:41:18.822380",
       "message": "Jupiter quote failed for DOGE"
     },
@@ -87,7 +71,23 @@
     {
       "time": "2026-10-07T18:44:44.211693",
       "message": "Jupiter quote failed for swordinu"
+    },
+    {
+      "time": "2026-10-07T23:20:26.445090",
+      "message": "Jupiter quote failed for swordinu"
+    },
+    {
+      "time": "2026-10-07T23:20:26.714111",
+      "message": "Jupiter quote failed for JACK"
+    },
+    {
+      "time": "2026-10-07T23:20:26.732722",
+      "message": "Jupiter quote failed for JACK"
+    },
+    {
+      "time": "2026-10-07T23:20:27.456846",
+      "message": "Jupiter quote failed for JACK"
     }
   ],
-  "saved_at": "2026-10-07T18:45:00.216169"
+  "saved_at": "2026-10-07T23:20:41.190182"
 }
