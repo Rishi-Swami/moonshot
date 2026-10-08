@@ -9,10 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-10-03T00:41:18.822380",
-      "message": "Jupiter quote failed for DOGE"
-    },
-    {
       "time": "2026-10-03T16:02:46.183042",
       "message": "Jupiter quote failed for Mrtlamp"
     },
@@ -87,7 +83,11 @@
     {
       "time": "2026-10-07T23:20:27.456846",
       "message": "Jupiter quote failed for JACK"
+    },
+    {
+      "time": "2026-10-08T02:48:09.354612",
+      "message": "Jupiter quote failed for swordinu"
     }
   ],
-  "saved_at": "2026-10-07T23:20:41.190182"
+  "saved_at": "2026-10-08T02:48:24.139792"
 }
