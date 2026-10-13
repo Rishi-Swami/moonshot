@@ -9,14 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-10-03T22:09:38.307319",
-      "message": "Jupiter quote failed for SPCXx"
-    },
-    {
-      "time": "2026-10-04T19:49:03.848945",
-      "message": "Jupiter quote failed for Agency"
-    },
-    {
       "time": "2026-10-04T19:49:03.864216",
       "message": "Jupiter quote failed for Agency"
     },
@@ -87,7 +79,15 @@
     {
       "time": "2026-10-09T03:04:04.778275",
       "message": "Jupiter quote failed for NINJACAT"
+    },
+    {
+      "time": "2026-10-13T02:35:06.568538",
+      "message": "Jupiter quote failed for FEELSGOOD"
+    },
+    {
+      "time": "2026-10-13T02:35:06.599856",
+      "message": "Jupiter quote failed for FEELSGOOD"
     }
   ],
-  "saved_at": "2026-10-12T21:09:21.949423"
+  "saved_at": "2026-10-13T02:35:09.626959"
 }
