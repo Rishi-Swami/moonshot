@@ -9,10 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-10-04T19:49:03.864216",
-      "message": "Jupiter quote failed for Agency"
-    },
-    {
       "time": "2026-10-04T19:49:04.403145",
       "message": "Jupiter quote failed for NVDAx"
     },
@@ -87,7 +83,11 @@
     {
       "time": "2026-10-13T02:35:06.599856",
       "message": "Jupiter quote failed for FEELSGOOD"
+    },
+    {
+      "time": "2026-10-14T23:25:58.265155",
+      "message": "Jupiter quote failed for TSLAx"
     }
   ],
-  "saved_at": "2026-10-14T20:33:52.141632"
+  "saved_at": "2026-10-14T23:26:00.896693"
 }
