@@ -9,26 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-10-04T19:49:04.403145",
-      "message": "Jupiter quote failed for NVDAx"
-    },
-    {
-      "time": "2026-10-06T22:40:30.357397",
-      "message": "Jupiter quote failed for Hacksiren"
-    },
-    {
-      "time": "2026-10-06T22:40:30.378874",
-      "message": "Jupiter quote failed for Hacksiren"
-    },
-    {
-      "time": "2026-10-06T22:40:36.461387",
-      "message": "Jupiter quote failed for GODS"
-    },
-    {
-      "time": "2026-10-06T22:40:36.488938",
-      "message": "Jupiter quote failed for GODS"
-    },
-    {
       "time": "2026-10-06T22:40:36.516112",
       "message": "Jupiter quote failed for GODS"
     },
@@ -87,7 +67,27 @@
     {
       "time": "2026-10-14T23:25:58.265155",
       "message": "Jupiter quote failed for TSLAx"
+    },
+    {
+      "time": "2026-10-15T20:04:10.245615",
+      "message": "Jupiter quote failed for LULACLK"
+    },
+    {
+      "time": "2026-10-15T20:04:10.259364",
+      "message": "Jupiter quote failed for LULACLK"
+    },
+    {
+      "time": "2026-10-15T20:04:10.276886",
+      "message": "Jupiter quote failed for LULACLK"
+    },
+    {
+      "time": "2026-10-15T20:04:11.256936",
+      "message": "Jupiter quote failed for FRONTIER"
+    },
+    {
+      "time": "2026-10-15T20:04:11.272489",
+      "message": "Jupiter quote failed for FRONTIER"
     }
   ],
-  "saved_at": "2026-10-15T16:43:40.045794"
+  "saved_at": "2026-10-15T20:04:25.192983"
 }
