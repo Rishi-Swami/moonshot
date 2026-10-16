@@ -9,10 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-10-06T22:40:36.516112",
-      "message": "Jupiter quote failed for GODS"
-    },
-    {
       "time": "2026-10-06T22:40:37.472752",
       "message": "Jupiter quote failed for GODS"
     },
@@ -87,7 +83,11 @@
     {
       "time": "2026-10-15T20:04:11.272489",
       "message": "Jupiter quote failed for FRONTIER"
+    },
+    {
+      "time": "2026-10-16T19:39:16.399550",
+      "message": "Jupiter quote failed for Muserbt"
     }
   ],
-  "saved_at": "2026-10-16T16:25:59.620163"
+  "saved_at": "2026-10-16T19:39:30.835660"
 }
