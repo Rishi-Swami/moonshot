@@ -9,10 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-10-07T01:49:54.516125",
-      "message": "Jupiter quote failed for DRGNSPL"
-    },
-    {
       "time": "2026-10-07T18:44:44.211693",
       "message": "Jupiter quote failed for swordinu"
     },
@@ -87,7 +83,11 @@
     {
       "time": "2026-10-17T22:26:20.842700",
       "message": "Jupiter quote failed for Gato"
+    },
+    {
+      "time": "2026-10-18T15:41:53.693283",
+      "message": "Jupiter quote failed for BORDR"
     }
   ],
-  "saved_at": "2026-10-18T00:13:19.825988"
+  "saved_at": "2026-10-18T15:41:56.534558"
 }
