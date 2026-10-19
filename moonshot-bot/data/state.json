@@ -9,22 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-10-07T18:44:44.211693",
-      "message": "Jupiter quote failed for swordinu"
-    },
-    {
-      "time": "2026-10-07T23:20:26.445090",
-      "message": "Jupiter quote failed for swordinu"
-    },
-    {
-      "time": "2026-10-07T23:20:26.714111",
-      "message": "Jupiter quote failed for JACK"
-    },
-    {
-      "time": "2026-10-07T23:20:26.732722",
-      "message": "Jupiter quote failed for JACK"
-    },
-    {
       "time": "2026-10-07T23:20:27.456846",
       "message": "Jupiter quote failed for JACK"
     },
@@ -87,7 +71,23 @@
     {
       "time": "2026-10-18T15:41:53.693283",
       "message": "Jupiter quote failed for BORDR"
+    },
+    {
+      "time": "2026-10-19T18:36:17.672826",
+      "message": "Jupiter quote failed for TTWO"
+    },
+    {
+      "time": "2026-10-19T18:36:17.716631",
+      "message": "Jupiter quote failed for WLFI"
+    },
+    {
+      "time": "2026-10-19T18:36:17.790551",
+      "message": "Jupiter quote failed for OPENAI"
+    },
+    {
+      "time": "2026-10-19T18:36:18.684302",
+      "message": "Jupiter quote failed for WLFI"
     }
   ],
-  "saved_at": "2026-10-19T00:50:48.032576"
+  "saved_at": "2026-10-19T18:36:21.360872"
 }
