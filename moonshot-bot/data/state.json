@@ -9,10 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-10-07T23:20:27.456846",
-      "message": "Jupiter quote failed for JACK"
-    },
-    {
       "time": "2026-10-08T02:48:09.354612",
       "message": "Jupiter quote failed for swordinu"
     },
@@ -87,7 +83,11 @@
     {
       "time": "2026-10-19T18:36:18.684302",
       "message": "Jupiter quote failed for WLFI"
+    },
+    {
+      "time": "2026-10-19T22:38:14.204103",
+      "message": "Jupiter quote failed for NVDAx"
     }
   ],
-  "saved_at": "2026-10-19T18:36:21.360872"
+  "saved_at": "2026-10-19T22:38:17.044308"
 }
