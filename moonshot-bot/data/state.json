@@ -9,14 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-10-08T02:48:09.354612",
-      "message": "Jupiter quote failed for swordinu"
-    },
-    {
-      "time": "2026-10-08T23:34:35.763601",
-      "message": "Jupiter quote failed for TSLAx"
-    },
-    {
       "time": "2026-10-09T03:04:04.778275",
       "message": "Jupiter quote failed for NINJACAT"
     },
@@ -87,7 +79,15 @@
     {
       "time": "2026-10-19T22:38:14.204103",
       "message": "Jupiter quote failed for NVDAx"
+    },
+    {
+      "time": "2026-10-20T20:09:17.866803",
+      "message": "Jupiter quote failed for MUSK4"
+    },
+    {
+      "time": "2026-10-20T20:09:17.931364",
+      "message": "Jupiter quote failed for MUSK4"
     }
   ],
-  "saved_at": "2026-10-20T16:40:46.373037"
+  "saved_at": "2026-10-20T20:09:20.750658"
 }
