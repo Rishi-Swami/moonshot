@@ -9,10 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-10-09T03:04:04.778275",
-      "message": "Jupiter quote failed for NINJACAT"
-    },
-    {
       "time": "2026-10-13T02:35:06.568538",
       "message": "Jupiter quote failed for FEELSGOOD"
     },
@@ -87,7 +83,11 @@
     {
       "time": "2026-10-20T20:09:17.931364",
       "message": "Jupiter quote failed for MUSK4"
+    },
+    {
+      "time": "2026-10-21T01:38:43.474690",
+      "message": "Jupiter quote failed for Kimchi"
     }
   ],
-  "saved_at": "2026-10-20T23:11:20.583984"
+  "saved_at": "2026-10-21T01:38:46.185888"
 }
