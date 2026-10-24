@@ -9,14 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-10-15T20:04:10.259364",
-      "message": "Jupiter quote failed for LULACLK"
-    },
-    {
-      "time": "2026-10-15T20:04:10.276886",
-      "message": "Jupiter quote failed for LULACLK"
-    },
-    {
       "time": "2026-10-15T20:04:11.256936",
       "message": "Jupiter quote failed for FRONTIER"
     },
@@ -87,7 +79,15 @@
     {
       "time": "2026-10-22T23:32:28.311787",
       "message": "Jupiter quote failed for OA"
+    },
+    {
+      "time": "2026-10-24T01:37:13.199443",
+      "message": "Jupiter quote failed for BIRB"
+    },
+    {
+      "time": "2026-10-24T01:37:20.147087",
+      "message": "Jupiter quote failed for ELON"
     }
   ],
-  "saved_at": "2026-10-23T23:10:22.387639"
+  "saved_at": "2026-10-24T01:37:23.082878"
 }
