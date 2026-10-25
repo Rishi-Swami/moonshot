@@ -9,26 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-10-17T22:26:20.820196",
-      "message": "Jupiter quote failed for Gato"
-    },
-    {
-      "time": "2026-10-17T22:26:20.842700",
-      "message": "Jupiter quote failed for Gato"
-    },
-    {
-      "time": "2026-10-18T15:41:53.693283",
-      "message": "Jupiter quote failed for BORDR"
-    },
-    {
-      "time": "2026-10-19T18:36:17.672826",
-      "message": "Jupiter quote failed for TTWO"
-    },
-    {
-      "time": "2026-10-19T18:36:17.716631",
-      "message": "Jupiter quote failed for WLFI"
-    },
-    {
       "time": "2026-10-19T18:36:17.790551",
       "message": "Jupiter quote failed for OPENAI"
     },
@@ -87,7 +67,27 @@
     {
       "time": "2026-10-24T23:07:46.464477",
       "message": "Jupiter quote failed for MON"
+    },
+    {
+      "time": "2026-10-25T01:09:43.066450",
+      "message": "Jupiter quote failed for RUSH"
+    },
+    {
+      "time": "2026-10-25T01:09:43.092141",
+      "message": "Jupiter quote failed for RUSH"
+    },
+    {
+      "time": "2026-10-25T01:09:43.120676",
+      "message": "Jupiter quote failed for RUSH"
+    },
+    {
+      "time": "2026-10-25T01:09:44.078247",
+      "message": "Jupiter quote failed for RUSH"
+    },
+    {
+      "time": "2026-10-25T01:09:44.104894",
+      "message": "Jupiter quote failed for RUSH"
     }
   ],
-  "saved_at": "2026-10-24T23:07:49.218762"
+  "saved_at": "2026-10-25T01:09:55.743101"
 }
