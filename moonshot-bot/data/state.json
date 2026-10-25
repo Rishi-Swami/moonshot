@@ -9,10 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-10-19T18:36:17.790551",
-      "message": "Jupiter quote failed for OPENAI"
-    },
-    {
       "time": "2026-10-19T18:36:18.684302",
       "message": "Jupiter quote failed for WLFI"
     },
@@ -87,7 +83,11 @@
     {
       "time": "2026-10-25T01:09:44.104894",
       "message": "Jupiter quote failed for RUSH"
+    },
+    {
+      "time": "2026-10-25T15:53:48.411189",
+      "message": "Jupiter quote failed for SOL"
     }
   ],
-  "saved_at": "2026-10-25T01:09:55.743101"
+  "saved_at": "2026-10-25T15:54:03.406202"
 }
