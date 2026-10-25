@@ -9,10 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-10-19T18:36:18.684302",
-      "message": "Jupiter quote failed for WLFI"
-    },
-    {
       "time": "2026-10-19T22:38:14.204103",
       "message": "Jupiter quote failed for NVDAx"
     },
@@ -87,7 +83,11 @@
     {
       "time": "2026-10-25T15:53:48.411189",
       "message": "Jupiter quote failed for SOL"
+    },
+    {
+      "time": "2026-10-25T23:21:28.069998",
+      "message": "Jupiter quote failed for NFLX"
     }
   ],
-  "saved_at": "2026-10-25T21:16:47.182250"
+  "saved_at": "2026-10-25T23:21:30.588827"
 }
