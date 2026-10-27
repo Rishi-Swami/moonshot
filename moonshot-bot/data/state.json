@@ -9,10 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-10-21T16:59:20.415895",
-      "message": "Jupiter quote failed for TTWO"
-    },
-    {
       "time": "2026-10-22T16:58:10.865331",
       "message": "Jupiter quote failed for OA"
     },
@@ -87,7 +83,11 @@
     {
       "time": "2026-10-27T01:48:35.495682",
       "message": "Jupiter quote failed for STONK"
+    },
+    {
+      "time": "2026-10-27T17:49:29.218312",
+      "message": "Jupiter quote failed for BUBBLE"
     }
   ],
-  "saved_at": "2026-10-27T01:48:38.010258"
+  "saved_at": "2026-10-27T17:49:42.811800"
 }
