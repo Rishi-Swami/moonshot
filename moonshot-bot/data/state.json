@@ -9,22 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-10-19T22:38:14.204103",
-      "message": "Jupiter quote failed for NVDAx"
-    },
-    {
-      "time": "2026-10-20T20:09:17.866803",
-      "message": "Jupiter quote failed for MUSK4"
-    },
-    {
-      "time": "2026-10-20T20:09:17.931364",
-      "message": "Jupiter quote failed for MUSK4"
-    },
-    {
-      "time": "2026-10-21T01:38:43.474690",
-      "message": "Jupiter quote failed for Kimchi"
-    },
-    {
       "time": "2026-10-21T16:59:20.415895",
       "message": "Jupiter quote failed for TTWO"
     },
@@ -87,7 +71,23 @@
     {
       "time": "2026-10-25T23:21:28.069998",
       "message": "Jupiter quote failed for NFLX"
+    },
+    {
+      "time": "2026-10-27T01:48:34.483205",
+      "message": "Jupiter quote failed for STONK"
+    },
+    {
+      "time": "2026-10-27T01:48:34.502210",
+      "message": "Jupiter quote failed for STONK"
+    },
+    {
+      "time": "2026-10-27T01:48:34.524802",
+      "message": "Jupiter quote failed for STONK"
+    },
+    {
+      "time": "2026-10-27T01:48:35.495682",
+      "message": "Jupiter quote failed for STONK"
     }
   ],
-  "saved_at": "2026-10-26T22:52:26.420787"
+  "saved_at": "2026-10-27T01:48:38.010258"
 }
