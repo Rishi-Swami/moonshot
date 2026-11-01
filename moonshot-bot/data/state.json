@@ -9,10 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-10-22T20:29:15.879876",
-      "message": "Jupiter quote failed for OA"
-    },
-    {
       "time": "2026-10-22T23:32:28.311787",
       "message": "Jupiter quote failed for OA"
     },
@@ -87,7 +83,11 @@
     {
       "time": "2026-10-31T23:37:33.998228",
       "message": "Jupiter quote failed for Pikmin"
+    },
+    {
+      "time": "2026-11-01T02:35:15.843659",
+      "message": "Jupiter quote failed for BLUE"
     }
   ],
-  "saved_at": "2026-10-31T23:37:36.453943"
+  "saved_at": "2026-11-01T02:35:18.350525"
 }
