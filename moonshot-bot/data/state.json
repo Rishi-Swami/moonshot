@@ -9,10 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-10-22T23:32:28.311787",
-      "message": "Jupiter quote failed for OA"
-    },
-    {
       "time": "2026-10-24T01:37:13.199443",
       "message": "Jupiter quote failed for BIRB"
     },
@@ -87,7 +83,11 @@
     {
       "time": "2026-11-01T02:35:15.843659",
       "message": "Jupiter quote failed for BLUE"
+    },
+    {
+      "time": "2026-11-01T17:49:51.849722",
+      "message": "Jupiter quote failed for BLUE"
     }
   ],
-  "saved_at": "2026-11-01T02:35:18.350525"
+  "saved_at": "2026-11-01T17:49:54.282019"
 }
