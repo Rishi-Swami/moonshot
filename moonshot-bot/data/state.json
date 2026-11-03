@@ -9,14 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-10-24T01:37:13.199443",
-      "message": "Jupiter quote failed for BIRB"
-    },
-    {
-      "time": "2026-10-24T01:37:20.147087",
-      "message": "Jupiter quote failed for ELON"
-    },
-    {
       "time": "2026-10-24T15:43:01.071891",
       "message": "Jupiter quote failed for BLACKTOBER"
     },
@@ -87,7 +79,15 @@
     {
       "time": "2026-11-01T17:49:51.849722",
       "message": "Jupiter quote failed for BLUE"
+    },
+    {
+      "time": "2026-11-03T03:04:02.003717",
+      "message": "Jupiter quote failed for PANEM3D"
+    },
+    {
+      "time": "2026-11-03T03:04:02.033810",
+      "message": "Jupiter quote failed for PANEM3D"
     }
   ],
-  "saved_at": "2026-11-02T21:37:07.087384"
+  "saved_at": "2026-11-03T03:04:15.996037"
 }
