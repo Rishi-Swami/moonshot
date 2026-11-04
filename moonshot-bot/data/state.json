@@ -9,14 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-10-24T23:07:46.464477",
-      "message": "Jupiter quote failed for MON"
-    },
-    {
-      "time": "2026-10-25T01:09:43.066450",
-      "message": "Jupiter quote failed for RUSH"
-    },
-    {
       "time": "2026-10-25T01:09:43.092141",
       "message": "Jupiter quote failed for RUSH"
     },
@@ -87,7 +79,15 @@
     {
       "time": "2026-11-03T19:20:36.541632",
       "message": "Jupiter quote failed for Mag"
+    },
+    {
+      "time": "2026-11-04T00:02:13.306305",
+      "message": "Jupiter quote failed for Balcrab"
+    },
+    {
+      "time": "2026-11-04T00:02:13.541058",
+      "message": "Jupiter quote failed for BTCs"
     }
   ],
-  "saved_at": "2026-11-03T19:20:39.716310"
+  "saved_at": "2026-11-04T00:02:16.501438"
 }
