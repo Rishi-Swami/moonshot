@@ -9,10 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-10-25T01:09:43.092141",
-      "message": "Jupiter quote failed for RUSH"
-    },
-    {
       "time": "2026-10-25T01:09:43.120676",
       "message": "Jupiter quote failed for RUSH"
     },
@@ -87,7 +83,11 @@
     {
       "time": "2026-11-04T00:02:13.541058",
       "message": "Jupiter quote failed for BTCs"
+    },
+    {
+      "time": "2026-11-04T19:37:08.170129",
+      "message": "Jupiter quote failed for AI"
     }
   ],
-  "saved_at": "2026-11-04T00:02:16.501438"
+  "saved_at": "2026-11-04T19:37:10.788817"
 }
