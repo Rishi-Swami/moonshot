@@ -9,14 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-10-25T01:09:43.120676",
-      "message": "Jupiter quote failed for RUSH"
-    },
-    {
-      "time": "2026-10-25T01:09:44.078247",
-      "message": "Jupiter quote failed for RUSH"
-    },
-    {
       "time": "2026-10-25T01:09:44.104894",
       "message": "Jupiter quote failed for RUSH"
     },
@@ -87,7 +79,15 @@
     {
       "time": "2026-11-04T19:37:08.170129",
       "message": "Jupiter quote failed for AI"
+    },
+    {
+      "time": "2026-11-05T00:31:32.417720",
+      "message": "Jupiter quote failed for Skinmol"
+    },
+    {
+      "time": "2026-11-05T00:31:44.140790",
+      "message": "Jupiter quote failed for Skinmol"
     }
   ],
-  "saved_at": "2026-11-04T19:37:10.788817"
+  "saved_at": "2026-11-05T00:31:46.882124"
 }
