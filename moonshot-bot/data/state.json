@@ -9,22 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-10-25T01:09:44.104894",
-      "message": "Jupiter quote failed for RUSH"
-    },
-    {
-      "time": "2026-10-25T15:53:48.411189",
-      "message": "Jupiter quote failed for SOL"
-    },
-    {
-      "time": "2026-10-25T23:21:28.069998",
-      "message": "Jupiter quote failed for NFLX"
-    },
-    {
-      "time": "2026-10-27T01:48:34.483205",
-      "message": "Jupiter quote failed for STONK"
-    },
-    {
       "time": "2026-10-27T01:48:34.502210",
       "message": "Jupiter quote failed for STONK"
     },
@@ -87,7 +71,23 @@
     {
       "time": "2026-11-05T00:31:44.140790",
       "message": "Jupiter quote failed for Skinmol"
+    },
+    {
+      "time": "2026-11-05T19:46:13.900255",
+      "message": "Jupiter quote failed for CMACROWN"
+    },
+    {
+      "time": "2026-11-05T19:46:13.914699",
+      "message": "Jupiter quote failed for CMACROWN"
+    },
+    {
+      "time": "2026-11-05T19:46:22.847240",
+      "message": "Jupiter quote failed for DNUT"
+    },
+    {
+      "time": "2026-11-05T19:46:22.865063",
+      "message": "Jupiter quote failed for COST"
     }
   ],
-  "saved_at": "2026-11-05T00:31:46.882124"
+  "saved_at": "2026-11-05T19:46:25.485759"
 }
