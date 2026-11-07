@@ -9,10 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-10-27T01:48:35.495682",
-      "message": "Jupiter quote failed for STONK"
-    },
-    {
       "time": "2026-10-27T17:49:29.218312",
       "message": "Jupiter quote failed for BUBBLE"
     },
@@ -87,7 +83,11 @@
     {
       "time": "2026-11-06T00:34:26.529622",
       "message": "Jupiter quote failed for METAx"
+    },
+    {
+      "time": "2026-11-07T03:16:44.564317",
+      "message": "Jupiter quote failed for NVDAx"
     }
   ],
-  "saved_at": "2026-11-06T23:43:58.247739"
+  "saved_at": "2026-11-07T03:16:47.326067"
 }
