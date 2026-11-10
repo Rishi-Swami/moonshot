@@ -9,10 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-11-03T19:20:36.434613",
-      "message": "Jupiter quote failed for Mag"
-    },
-    {
       "time": "2026-11-03T19:20:36.541632",
       "message": "Jupiter quote failed for Mag"
     },
@@ -87,7 +83,11 @@
     {
       "time": "2026-11-08T00:32:20.279237",
       "message": "Jupiter quote failed for invest"
+    },
+    {
+      "time": "2026-11-10T04:08:50.479589",
+      "message": "Jupiter quote failed for TURBO"
     }
   ],
-  "saved_at": "2026-11-09T22:10:38.139057"
+  "saved_at": "2026-11-10T04:08:52.970700"
 }
