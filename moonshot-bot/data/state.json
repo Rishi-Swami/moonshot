@@ -9,26 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-11-04T00:02:13.306305",
-      "message": "Jupiter quote failed for Balcrab"
-    },
-    {
-      "time": "2026-11-04T00:02:13.541058",
-      "message": "Jupiter quote failed for BTCs"
-    },
-    {
-      "time": "2026-11-04T19:37:08.170129",
-      "message": "Jupiter quote failed for AI"
-    },
-    {
-      "time": "2026-11-05T00:31:32.417720",
-      "message": "Jupiter quote failed for Skinmol"
-    },
-    {
-      "time": "2026-11-05T00:31:44.140790",
-      "message": "Jupiter quote failed for Skinmol"
-    },
-    {
       "time": "2026-11-05T19:46:13.900255",
       "message": "Jupiter quote failed for CMACROWN"
     },
@@ -87,7 +67,27 @@
     {
       "time": "2026-11-10T19:31:34.646291",
       "message": "Jupiter quote failed for JENSEN"
+    },
+    {
+      "time": "2026-11-11T00:13:08.321515",
+      "message": "Jupiter quote failed for IPOWL"
+    },
+    {
+      "time": "2026-11-11T00:13:08.339425",
+      "message": "Jupiter quote failed for IPOWL"
+    },
+    {
+      "time": "2026-11-11T00:13:08.357452",
+      "message": "Jupiter quote failed for IPOWL"
+    },
+    {
+      "time": "2026-11-11T00:13:09.333966",
+      "message": "Jupiter quote failed for IPOWL"
+    },
+    {
+      "time": "2026-11-11T00:13:09.348729",
+      "message": "Jupiter quote failed for IPOWL"
     }
   ],
-  "saved_at": "2026-11-10T19:31:48.715983"
+  "saved_at": "2026-11-11T00:13:11.962284"
 }
