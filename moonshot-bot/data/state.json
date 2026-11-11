@@ -9,10 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-11-05T19:46:13.900255",
-      "message": "Jupiter quote failed for CMACROWN"
-    },
-    {
       "time": "2026-11-05T19:46:13.914699",
       "message": "Jupiter quote failed for CMACROWN"
     },
@@ -87,7 +83,11 @@
     {
       "time": "2026-11-11T00:13:09.348729",
       "message": "Jupiter quote failed for IPOWL"
+    },
+    {
+      "time": "2026-11-11T19:26:56.652149",
+      "message": "Jupiter quote failed for HOTPANDA"
     }
   ],
-  "saved_at": "2026-11-11T00:13:11.962284"
+  "saved_at": "2026-11-11T19:27:10.905247"
 }
