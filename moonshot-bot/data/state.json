@@ -9,10 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-11-06T00:34:26.433535",
-      "message": "Jupiter quote failed for PIRATE"
-    },
-    {
       "time": "2026-11-06T00:34:26.529622",
       "message": "Jupiter quote failed for METAx"
     },
@@ -87,7 +83,11 @@
     {
       "time": "2026-11-12T01:38:19.280340",
       "message": "Jupiter quote failed for Max"
+    },
+    {
+      "time": "2026-11-12T19:44:40.908149",
+      "message": "Jupiter quote failed for mihao"
     }
   ],
-  "saved_at": "2026-11-12T01:38:21.732272"
+  "saved_at": "2026-11-12T19:44:55.455326"
 }
