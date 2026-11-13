@@ -9,26 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-11-06T00:34:26.529622",
-      "message": "Jupiter quote failed for METAx"
-    },
-    {
-      "time": "2026-11-07T03:16:44.564317",
-      "message": "Jupiter quote failed for NVDAx"
-    },
-    {
-      "time": "2026-11-07T21:05:17.677439",
-      "message": "Jupiter quote failed for NFLX"
-    },
-    {
-      "time": "2026-11-07T21:05:17.692102",
-      "message": "Jupiter quote failed for FRODO"
-    },
-    {
-      "time": "2026-11-07T21:05:17.709263",
-      "message": "Jupiter quote failed for FRODO"
-    },
-    {
       "time": "2026-11-08T00:32:20.191524",
       "message": "Jupiter quote failed for Popdove"
     },
@@ -87,7 +67,27 @@
     {
       "time": "2026-11-12T19:44:40.908149",
       "message": "Jupiter quote failed for mihao"
+    },
+    {
+      "time": "2026-11-13T00:43:23.566380",
+      "message": "Jupiter quote failed for mihao"
+    },
+    {
+      "time": "2026-11-13T00:43:23.715443",
+      "message": "Jupiter quote failed for RUSH"
+    },
+    {
+      "time": "2026-11-13T00:43:23.743223",
+      "message": "Jupiter quote failed for RUSH"
+    },
+    {
+      "time": "2026-11-13T00:43:24.577537",
+      "message": "Jupiter quote failed for RUSH"
+    },
+    {
+      "time": "2026-11-13T00:43:24.726454",
+      "message": "Jupiter quote failed for RUSH"
     }
   ],
-  "saved_at": "2026-11-12T19:44:55.455326"
+  "saved_at": "2026-11-13T00:43:38.536318"
 }
