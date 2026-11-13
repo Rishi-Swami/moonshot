@@ -9,10 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-11-08T00:32:20.191524",
-      "message": "Jupiter quote failed for Popdove"
-    },
-    {
       "time": "2026-11-08T00:32:20.242966",
       "message": "Jupiter quote failed for FLOAT"
     },
@@ -87,7 +83,11 @@
     {
       "time": "2026-11-13T00:43:24.726454",
       "message": "Jupiter quote failed for RUSH"
+    },
+    {
+      "time": "2026-11-13T19:27:34.300749",
+      "message": "Jupiter quote failed for hSOL"
     }
   ],
-  "saved_at": "2026-11-13T00:43:38.536318"
+  "saved_at": "2026-11-13T19:27:37.035202"
 }
