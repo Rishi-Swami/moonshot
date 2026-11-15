@@ -9,14 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-11-10T04:08:50.479589",
-      "message": "Jupiter quote failed for TURBO"
-    },
-    {
-      "time": "2026-11-10T19:31:34.646291",
-      "message": "Jupiter quote failed for JENSEN"
-    },
-    {
       "time": "2026-11-11T00:13:08.321515",
       "message": "Jupiter quote failed for IPOWL"
     },
@@ -87,7 +79,15 @@
     {
       "time": "2026-11-15T01:35:54.597313",
       "message": "Jupiter quote failed for USDC"
+    },
+    {
+      "time": "2026-11-15T18:41:23.075391",
+      "message": "Jupiter quote failed for mihao"
+    },
+    {
+      "time": "2026-11-15T18:41:26.232255",
+      "message": "Jupiter quote failed for GATO"
     }
   ],
-  "saved_at": "2026-11-15T01:35:57.114763"
+  "saved_at": "2026-11-15T18:41:37.690215"
 }
