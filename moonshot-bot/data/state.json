@@ -9,14 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-11-11T00:13:09.333966",
-      "message": "Jupiter quote failed for IPOWL"
-    },
-    {
-      "time": "2026-11-11T00:13:09.348729",
-      "message": "Jupiter quote failed for IPOWL"
-    },
-    {
       "time": "2026-11-11T19:26:56.652149",
       "message": "Jupiter quote failed for HOTPANDA"
     },
@@ -87,7 +79,15 @@
     {
       "time": "2026-11-15T23:11:38.621369",
       "message": "Jupiter quote failed for RBLX"
+    },
+    {
+      "time": "2026-11-16T02:47:43.629715",
+      "message": "Jupiter quote failed for TSLAx"
+    },
+    {
+      "time": "2026-11-16T02:47:43.695316",
+      "message": "Jupiter quote failed for SPY"
     }
   ],
-  "saved_at": "2026-11-15T23:11:40.970635"
+  "saved_at": "2026-11-16T02:47:57.505536"
 }
