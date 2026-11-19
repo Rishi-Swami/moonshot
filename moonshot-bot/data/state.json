@@ -9,10 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-11-12T01:38:19.263254",
-      "message": "Jupiter quote failed for X"
-    },
-    {
       "time": "2026-11-12T01:38:19.280340",
       "message": "Jupiter quote failed for Max"
     },
@@ -87,7 +83,11 @@
     {
       "time": "2026-11-19T01:55:07.543179",
       "message": "Jupiter quote failed for TTWO"
+    },
+    {
+      "time": "2026-11-19T20:20:23.249803",
+      "message": "Jupiter quote failed for ANT"
     }
   ],
-  "saved_at": "2026-11-19T01:55:10.238287"
+  "saved_at": "2026-11-19T20:20:25.817116"
 }
