@@ -9,10 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-11-13T00:43:23.743223",
-      "message": "Jupiter quote failed for RUSH"
-    },
-    {
       "time": "2026-11-13T00:43:24.577537",
       "message": "Jupiter quote failed for RUSH"
     },
@@ -87,7 +83,11 @@
     {
       "time": "2026-11-22T19:19:29.882786",
       "message": "Jupiter quote failed for OpenIndex"
+    },
+    {
+      "time": "2026-11-23T00:23:10.897126",
+      "message": "Jupiter quote failed for ZOL"
     }
   ],
-  "saved_at": "2026-11-22T19:19:32.654268"
+  "saved_at": "2026-11-23T00:23:13.448101"
 }
