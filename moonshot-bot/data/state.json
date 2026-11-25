@@ -9,14 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-11-13T00:43:24.577537",
-      "message": "Jupiter quote failed for RUSH"
-    },
-    {
-      "time": "2026-11-13T00:43:24.726454",
-      "message": "Jupiter quote failed for RUSH"
-    },
-    {
       "time": "2026-11-13T19:27:34.300749",
       "message": "Jupiter quote failed for hSOL"
     },
@@ -87,7 +79,15 @@
     {
       "time": "2026-11-23T00:23:10.897126",
       "message": "Jupiter quote failed for ZOL"
+    },
+    {
+      "time": "2026-11-25T21:28:40.955531",
+      "message": "Jupiter quote failed for PLTRx"
+    },
+    {
+      "time": "2026-11-25T21:28:41.118314",
+      "message": "Jupiter quote failed for HOODx"
     }
   ],
-  "saved_at": "2026-11-25T04:55:42.502107"
+  "saved_at": "2026-11-25T21:28:43.881472"
 }
