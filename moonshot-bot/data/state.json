@@ -9,10 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-11-13T19:27:34.300749",
-      "message": "Jupiter quote failed for hSOL"
-    },
-    {
       "time": "2026-11-14T21:54:42.370986",
       "message": "Jupiter quote failed for MCDx"
     },
@@ -87,7 +83,11 @@
     {
       "time": "2026-11-25T21:28:41.118314",
       "message": "Jupiter quote failed for HOODx"
+    },
+    {
+      "time": "2026-11-26T03:44:08.843975",
+      "message": "Jupiter quote failed for TSLAx"
     }
   ],
-  "saved_at": "2026-11-25T21:28:43.881472"
+  "saved_at": "2026-11-26T03:44:14.478088"
 }
