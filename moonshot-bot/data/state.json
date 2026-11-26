@@ -9,14 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-11-14T21:54:42.370986",
-      "message": "Jupiter quote failed for MCDx"
-    },
-    {
-      "time": "2026-11-15T01:35:54.597313",
-      "message": "Jupiter quote failed for USDC"
-    },
-    {
       "time": "2026-11-15T18:41:23.075391",
       "message": "Jupiter quote failed for mihao"
     },
@@ -87,7 +79,15 @@
     {
       "time": "2026-11-26T03:44:08.843975",
       "message": "Jupiter quote failed for TSLAx"
+    },
+    {
+      "time": "2026-11-26T21:16:27.384104",
+      "message": "Jupiter quote failed for Gforce"
+    },
+    {
+      "time": "2026-11-26T21:16:27.605554",
+      "message": "Jupiter quote failed for hSOL"
     }
   ],
-  "saved_at": "2026-11-26T03:44:14.478088"
+  "saved_at": "2026-11-26T21:16:30.253580"
 }
