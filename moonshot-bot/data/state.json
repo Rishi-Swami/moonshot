@@ -9,18 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-11-15T18:41:23.075391",
-      "message": "Jupiter quote failed for mihao"
-    },
-    {
-      "time": "2026-11-15T18:41:26.232255",
-      "message": "Jupiter quote failed for GATO"
-    },
-    {
-      "time": "2026-11-15T23:11:26.604297",
-      "message": "Jupiter quote failed for GATO"
-    },
-    {
       "time": "2026-11-15T23:11:38.611329",
       "message": "Jupiter quote failed for RBLX"
     },
@@ -87,7 +75,19 @@
     {
       "time": "2026-11-26T21:16:27.605554",
       "message": "Jupiter quote failed for hSOL"
+    },
+    {
+      "time": "2026-11-27T03:40:34.360479",
+      "message": "Jupiter quote failed for SPCX"
+    },
+    {
+      "time": "2026-11-27T03:40:34.400130",
+      "message": "Jupiter quote failed for WETH"
+    },
+    {
+      "time": "2026-11-27T03:40:34.447771",
+      "message": "Jupiter quote failed for SPCX"
     }
   ],
-  "saved_at": "2026-11-26T21:16:30.253580"
+  "saved_at": "2026-11-27T03:40:37.032135"
 }
