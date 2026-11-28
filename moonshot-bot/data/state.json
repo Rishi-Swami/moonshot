@@ -9,10 +9,6 @@
   },
   "errors": [
     {
-      "time": "2026-11-16T02:47:43.629715",
-      "message": "Jupiter quote failed for TSLAx"
-    },
-    {
       "time": "2026-11-16T02:47:43.695316",
       "message": "Jupiter quote failed for SPY"
     },
@@ -87,7 +83,11 @@
     {
       "time": "2026-11-27T20:57:54.892475",
       "message": "Jupiter quote failed for ORBSRV"
+    },
+    {
+      "time": "2026-11-28T03:12:49.989669",
+      "message": "Jupiter quote failed for SOMHAWK"
     }
   ],
-  "saved_at": "2026-11-27T20:58:08.994510"
+  "saved_at": "2026-11-28T03:12:56.503533"
 }
